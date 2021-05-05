@@ -1,0 +1,870 @@
+id,name,title,client,project,percentHours,latestMonth
+1,"Claus, Amanda",Consultant,"Akin, Gump, Strauss, Hauer & Feld, LLP",Retrieval Services,33% ,Feb-21
+2,"Greco, Theresa",Manager,"Akin, Gump, Strauss, Hauer & Feld, LLP",Retrieval Services,27% ,Feb-21
+3,"Lehrke, Sarah",Consultant,"Akin, Gump, Strauss, Hauer & Feld, LLP",Retrieval Services,17% ,Feb-21
+4,"Rodriguez, Nancy",Consultant,"Akin, Gump, Strauss, Hauer & Feld, LLP",Retrieval Services,17% ,Dec-20
+5,"Kiley, Joanne",Sr Manager,"Akin, Gump, Strauss, Hauer & Feld, LLP",Retrieval Services,2% ,Jan-21
+6,"Cable, Colleen",Director,"Akin, Gump, Strauss, Hauer & Feld, LLP",Retrieval Services,2% ,Jan-21
+7,"Bargar, Beverly",Consultant,"Akin, Gump, Strauss, Hauer & Feld, LLP",Retrieval Services,1% ,Dec-20
+8,"Flemming, Axelle",Director,"Akin, Gump, Strauss, Hauer & Feld, LLP",SELL,35% ,Oct-20
+9,"Greco, Theresa",Manager,"Akin, Gump, Strauss, Hauer & Feld, LLP",SELL,28% ,Sep-20
+10,"Kiley, Joanne",Sr Manager,"Akin, Gump, Strauss, Hauer & Feld, LLP",SELL,14% ,Oct-20
+11,"Cable, Colleen",Director,"Akin, Gump, Strauss, Hauer & Feld, LLP",SELL,11% ,Feb-21
+12,"Bargar, Beverly",Consultant,"Akin, Gump, Strauss, Hauer & Feld, LLP",SELL,8% ,Oct-20
+13,"Cooley, Andrew",Consultant,"Akin, Gump, Strauss, Hauer & Feld, LLP",SELL,3% ,Feb-21
+14,"Peasley, Marcus",Sr Consultant,"Akin, Gump, Strauss, Hauer & Feld, LLP",SELL,0% ,Jan-21
+15,"Katz, Daniel",Consultant,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,40% ,Feb-21
+16,"Longacre, James",Sr Manager,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,33% ,Feb-21
+17,"Ammendola, Devlin Ann",Sr Consultant,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,16% ,Feb-21
+18,"Habibian, Christopher",Consultant,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,3% ,Feb-21
+19,"Witt, Diana",Manager,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,2% ,Feb-21
+20,"Vercellino, Jessica",Manager,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,2% ,Oct-20
+21,"Steele, Jennifer",Manager,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,1% ,Feb-21
+22,"Vijayakumar, Ratheesh",Manager,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,1% ,Feb-21
+23,"Freddo, William",Manager,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,1% ,Feb-21
+24,"Ervin, David",Consultant,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,0% ,Sep-20
+25,"Anderson, Sean",Director,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,0% ,Feb-21
+26,"Odom, Lauren",Sr Consultant,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,0% ,Feb-21
+27,"Hegarty, John K",Sr Consultant,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,0% ,Sep-20
+28,"Lapid, Philip",Sr Consultant,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,0% ,Sep-20
+29,"Scherrer, Lauren",Director,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,0% ,Feb-21
+30,"Betthauser, Jacqueline",Consultant,"Akin, Gump, Strauss, Hauer & Feld, LLP",Vendor Management Office - Phase III,0% ,Dec-20
+31,"Fox, Clayton",Sr Director,"Akin, Gump, Strauss, Hauer & Feld, LLP",VMO - Phase III - Signoffs,98% ,Feb-21
+32,"Vijayakumar, Ratheesh",Manager,"Akin, Gump, Strauss, Hauer & Feld, LLP",VMO - Phase III - Signoffs,2% ,Jan-21
+33,"Boyer, Taylor",Director,Allen & Overy LLP,SELL,52% ,Dec-20
+34,"Vijayakumar, Ratheesh",Manager,Allen & Overy LLP,SELL,48% ,Dec-20
+35,"Terjesen, Donna",Managing Director,Alston & Bird LLP,RIS Managed Services,33% ,Jan-21
+36,"Peasley, Marcus",Sr Consultant,Alston & Bird LLP,RIS Managed Services,32% ,Dec-20
+37,"Witt, Diana",Manager,Alston & Bird LLP,RIS Managed Services,25% ,Jan-21
+38,"Scherrer, Lauren",Director,Alston & Bird LLP,RIS Managed Services,8% ,Dec-20
+39,"Ikens, Laura",Sr Manager,Alston & Bird LLP,RIS Managed Services,1% ,Feb-21
+40,"Witt, Diana",Manager,Alston & Bird LLP,SELL,69% ,Dec-20
+41,"Chevel, Peggy",Sr Manager,Alston & Bird LLP,SELL,22% ,Oct-20
+42,"Scherrer, Lauren",Director,Alston & Bird LLP,SELL,9% ,Feb-21
+43,"Betthauser, Jacqueline",Consultant,Arnold & Porter,RIS SpendConnect,94% ,Feb-21
+44,"Peasley, Marcus",Sr Consultant,Arnold & Porter,RIS SpendConnect,6% ,Feb-21
+45,"Cooley, Andrew",Consultant,Arnold & Porter,SELL,100% ,Dec-20
+46,"Betthauser, Jacqueline",Consultant,Arnold & Porter,SELL,89% ,Feb-21
+47,"Cable, Colleen",Director,Arnold & Porter,SELL,11% ,Feb-21
+48,"Lopez, Monica",Consultant,Arnold & Porter,Vendor Management Office - Phase 6,22% ,Feb-21
+49,"Braun, Wesley",Manager,Arnold & Porter,Vendor Management Office - Phase 6,22% ,Feb-21
+50,"Connolly, Veronica",Sr Consultant,Arnold & Porter,Vendor Management Office - Phase 6,22% ,Feb-21
+51,"Ammendola, Devlin Ann",Sr Consultant,Arnold & Porter,Vendor Management Office - Phase 6,14% ,Feb-21
+52,"Nwabara, Jasmine",Sr Consultant,Arnold & Porter,Vendor Management Office - Phase 6,13% ,Feb-21
+53,"Fox, Clayton",Sr Director,Arnold & Porter,Vendor Management Office - Phase 6,4% ,Feb-21
+54,"Rosenberg., Matthew",Manager,Arnold & Porter,Vendor Management Office - Phase 6,1% ,Dec-20
+55,"Gard, Wesley",Sr Manager,Arnold & Porter,Vendor Management Office - Phase 6,1% ,Feb-21
+56,"Anderson, Sean",Director,Arnold & Porter,Vendor Management Office - Phase 6,1% ,Jan-21
+57,"Rabago, Josine Ruth",Sr Consultant,Arnold & Porter,Vendor Management Office - Phase 6,0% ,Jan-21
+58,"Bergonia, Caroline",Sr Consultant,Arnold & Porter,Vendor Management Office - Phase 6,0% ,Nov-20
+59,"Steele, Jennifer",Manager,Arnold & Porter,Vendor Management Office - Phase 6,0% ,Dec-20
+60,"Witt, Diana",Manager,Arnold & Porter,Vendor Management Office - Phase 6,0% ,Sep-20
+61,"Peasley, Marcus",Sr Consultant,Arnold & Porter,Vendor Management Office - Phase 6,0% ,Dec-20
+62,"Brown, Julie",Consultant,Baker & Hostetler LLP,RIS Managed Services,100% ,Feb-21
+63,"Cable, Colleen",Director,Baker & Hostetler LLP,RIS Managed Services,0% ,Feb-21
+64,"Vu, Michael",Consultant,Baker & Hostetler LLP,SELL,53% ,Feb-21
+65,"Placzek, Aaron",Manager,Baker & Hostetler LLP,SELL,32% ,Feb-21
+66,"Cable, Colleen",Director,Baker & Hostetler LLP,SELL,5% ,Nov-20
+67,"Giang, Nathan",Sr Consultant,Baker & Hostetler LLP,SELL,5% ,Dec-20
+68,"Gard, Wesley",Sr Manager,Baker & Hostetler LLP,SELL,4% ,Feb-21
+69,"Soren, Gerri",Sr Consultant,Baker & Hostetler LLP,SELL,2% ,Feb-21
+70,"Ikens, Laura",Sr Manager,Baker & Hostetler LLP,SELL,1% ,Sep-20
+71,"Placzek, Aaron",Manager,Baker & Hostetler LLP,SpendConnect,100% ,Dec-20
+72,"Wright, Brandon",Sr Director,Baker & Hostetler LLP,Strategic Sourcing,44% ,Feb-21
+73,"Vijayakumar, Ratheesh",Manager,Baker & Hostetler LLP,Strategic Sourcing,35% ,Feb-21
+74,"Bergonia, Caroline",Sr Consultant,Baker & Hostetler LLP,Strategic Sourcing,19% ,Dec-20
+75,"Placzek, Aaron",Manager,Baker & Hostetler LLP,Strategic Sourcing,2% ,Sep-20
+76,"Talbot, Jack",Consultant,Baker & McKenzie LLP,SELL,71% ,Oct-20
+77,"Vu, Michael",Consultant,Baker & McKenzie LLP,SELL,22% ,Oct-20
+78,"Palmer, John",Manager,Baker & McKenzie LLP,SELL,7% ,Feb-21
+79,"Montgomery, Melissa",Manager,Baker & McKenzie LLP,Third Party Spend Implementation,48% ,Feb-21
+80,"Talbot, Jack",Consultant,Baker & McKenzie LLP,Third Party Spend Implementation,16% ,Feb-21
+81,"Vu, Michael",Consultant,Baker & McKenzie LLP,Third Party Spend Implementation,7% ,Feb-21
+82,"Cooley, Andrew",Consultant,Baker & McKenzie LLP,Third Party Spend Implementation,7% ,Jan-21
+83,"Anderson, Sean",Director,Baker & McKenzie LLP,Third Party Spend Implementation,6% ,Feb-21
+84,"Giang, Nathan",Sr Consultant,Baker & McKenzie LLP,Third Party Spend Implementation,4% ,Feb-21
+85,"Kilicarslan, Christine",Manager,Baker & McKenzie LLP,Third Party Spend Implementation,3% ,Jan-21
+86,"Palmer, John",Manager,Baker & McKenzie LLP,Third Party Spend Implementation,3% ,Feb-21
+87,"Soren, Gerri",Sr Consultant,Baker & McKenzie LLP,Third Party Spend Implementation,2% ,Jan-21
+88,"Gumila, Jeremy",Consultant,Baker & McKenzie LLP,Third Party Spend Implementation,2% ,Jan-21
+89,"Placzek, Aaron",Manager,Baker & McKenzie LLP,Third Party Spend Implementation,1% ,Jan-21
+90,"Freddo, William",Manager,Baker & McKenzie LLP,Third Party Spend Implementation,1% ,Dec-20
+91,"Peasley, Marcus",Sr Consultant,Blank Rome LLP,RIS Sourcing,41% ,Jan-21
+92,"Betthauser, Jacqueline",Consultant,Blank Rome LLP,RIS Sourcing,27% ,Feb-21
+93,"Chevel, Peggy",Sr Manager,Blank Rome LLP,RIS Sourcing,19% ,Jan-21
+94,"Odom, Lauren",Sr Consultant,Blank Rome LLP,RIS Sourcing,13% ,Jan-21
+95,"Freddo, William",Manager,Blank Rome LLP,RIS Sourcing,1% ,Feb-21
+96,"Chevel, Peggy",Sr Manager,Blank Rome LLP,SELL,40% ,Feb-21
+97,"Peasley, Marcus",Sr Consultant,Blank Rome LLP,SELL,17% ,Feb-21
+98,"Ikens, Laura",Sr Manager,Blank Rome LLP,SELL,13% ,Feb-21
+99,"Scherrer, Lauren",Director,Blank Rome LLP,SELL,12% ,Feb-21
+100,"Habibian, Christopher",Consultant,Blank Rome LLP,SELL,11% ,Sep-20
+101,"Cable, Colleen",Director,Blank Rome LLP,SELL,5% ,Feb-21
+102,"Giang, Nathan",Sr Consultant,Blank Rome LLP,SELL,2% ,Dec-20
+103,"Vu, Michael",Consultant,Bodman PLC,Strategic Sourcing,100% ,Dec-20
+104,"Giang, Nathan",Sr Consultant,"Bond, Schoeneck & King PLLC",SELL,99% ,Feb-21
+105,"Palmer, John",Manager,"Bond, Schoeneck & King PLLC",SELL,1% ,Sep-20
+106,"Anderson, Sean",Director,"Bond, Schoeneck & King PLLC",Strategic Sourcing Phase I,100% ,Oct-20
+107,"McClean, Kevin",Managing Director,Bryan Cave Leighton Paisner LLP,SELL,30% ,Dec-20
+108,"Vu, Michael",Consultant,Bryan Cave Leighton Paisner LLP,SELL,29% ,Feb-21
+109,"Giang, Nathan",Sr Consultant,Bryan Cave Leighton Paisner LLP,SELL,27% ,Feb-21
+110,"Terjesen, Donna",Managing Director,Bryan Cave Leighton Paisner LLP,SELL,5% ,Feb-21
+111,"Boyer, Taylor",Director,Bryan Cave Leighton Paisner LLP,SELL,5% ,Dec-20
+112,"Cable, Colleen",Director,Bryan Cave Leighton Paisner LLP,SELL,4% ,Feb-21
+113,"Talbot, Jack",Consultant,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,35% ,Feb-21
+114,"Ulloa Medina, Gustavo",Manager,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,17% ,Feb-21
+115,"Bergonia, Caroline",Sr Consultant,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,16% ,Feb-21
+116,"Hegarty, John K",Sr Consultant,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,9% ,Feb-21
+117,"Chevel, Peggy",Sr Manager,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,8% ,Feb-21
+118,"Vijayakumar, Ratheesh",Manager,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,6% ,Feb-21
+119,"Wright, Brandon",Sr Director,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,3% ,Feb-21
+120,"Anderson, Sean",Director,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,2% ,Feb-21
+121,"Odom, Lauren",Sr Consultant,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,2% ,Jan-21
+122,"Steele, Jennifer",Manager,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,1% ,Feb-21
+123,"McClean, Kevin",Managing Director,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,1% ,Feb-21
+124,"Betthauser, Jacqueline",Consultant,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,1% ,Feb-21
+125,"Buchholz, Julia",Sr Consultant,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,0% ,Feb-21
+126,"Peasley, Marcus",Sr Consultant,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,0% ,Dec-20
+127,"Witt, Diana",Manager,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,0% ,Oct-20
+128,"Palmer, John",Manager,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,0% ,Dec-20
+129,"Terjesen, Donna",Managing Director,Bryan Cave Leighton Paisner LLP,Strategic Sourcing,0% ,Nov-20
+130,"Soren, Gerri",Sr Consultant,BSI Limited,SELL,50% ,Oct-20
+131,"Placzek, Aaron",Manager,BSI Limited,SELL,22% ,Oct-20
+132,"Kilicarslan, Christine",Manager,BSI Limited,SELL,16% ,Oct-20
+133,"Okafor, Arinze",Sr Consultant,BSI Limited,SELL,8% ,Oct-20
+134,"Bergonia, Caroline",Sr Consultant,BSI Limited,SELL,3% ,Oct-20
+135,"Vijayakumar, Ratheesh",Manager,Buchanan Ingersoll & Rooney PC,SELL,70% ,Feb-21
+136,"Placzek, Aaron",Manager,Buchanan Ingersoll & Rooney PC,SELL,18% ,Nov-20
+137,"Vu, Michael",Consultant,Buchanan Ingersoll & Rooney PC,SELL,8% ,Oct-20
+138,"Wright, Brandon",Sr Director,Buchanan Ingersoll & Rooney PC,SELL,2% ,Nov-20
+139,"Bergonia, Caroline",Sr Consultant,Buchanan Ingersoll & Rooney PC,SELL,1% ,Oct-20
+140,"Placzek, Aaron",Manager,Buchanan Ingersoll & Rooney PC,Strategic Sourcing Phase I,100% ,Sep-20
+141,"Kilicarslan, Christine",Manager,"Butler, Snow, O'Mara, Stevens &",SELL,80% ,Oct-20
+142,"Vijayakumar, Ratheesh",Manager,"Butler, Snow, O'Mara, Stevens &",SELL,19% ,Sep-20
+143,"Steele, Jennifer",Manager,"Butler, Snow, O'Mara, Stevens &",SELL,1% ,Oct-20
+144,"Cruz, Cheryll",Sr Manager,"Cadwalader, Wickersham & Taft LLP",CWT - Commodity Management,82% ,Feb-21
+145,"Lapid, Philip",Sr Consultant,"Cadwalader, Wickersham & Taft LLP",CWT - Commodity Management,18% ,Nov-20
+146,"Cooley, Andrew",Consultant,"Cadwalader, Wickersham & Taft LLP",SELL,100% ,Oct-20
+147,"Vijayakumar, Ratheesh",Manager,CliftonLarsonAllen LLP,Strategic Sourcing,55% ,Feb-21
+148,"Wright, Brandon",Sr Director,CliftonLarsonAllen LLP,Strategic Sourcing,30% ,Feb-21
+149,"Vercellino, Jessica",Manager,CliftonLarsonAllen LLP,Strategic Sourcing,15% ,Jan-21
+150,"Terjesen, Donna",Managing Director,Coblentz Patch Duffy & Bass LLP,SELL,100% ,Jan-21
+151,"Hegarty, John K",Sr Consultant,Cooley LLP,RIS Sourcing Signoffs,49% ,Feb-21
+152,"Chevel, Peggy",Sr Manager,Cooley LLP,RIS Sourcing Signoffs,38% ,Feb-21
+153,"Odom, Lauren",Sr Consultant,Cooley LLP,RIS Sourcing Signoffs,11% ,Feb-21
+154,"Betthauser, Jacqueline",Consultant,Cooley LLP,RIS Sourcing Signoffs,1% ,Feb-21
+155,"Witt, Diana",Manager,Cooley LLP,RIS Sourcing Signoffs,0% ,Sep-20
+156,"Peasley, Marcus",Sr Consultant,Cooley LLP,RIS Sourcing Signoffs,0% ,Oct-20
+157,"Giang, Nathan",Sr Consultant,Cooley LLP,SELL,81% ,Feb-21
+158,"Peasley, Marcus",Sr Consultant,Cooley LLP,SELL,14% ,Feb-21
+159,"Chevel, Peggy",Sr Manager,Cooley LLP,SELL,4% ,Sep-20
+160,"Cable, Colleen",Director,Cooley LLP,SELL,1% ,Feb-21
+161,"Witt, Diana",Manager,Cooley LLP,SELL,1% ,Sep-20
+162,"Habibian, Christopher",Consultant,Cooley LLP,SpendConnect Insights,41% ,Feb-21
+163,"Witt, Diana",Manager,Cooley LLP,SpendConnect Insights,37% ,Feb-21
+164,"Odom, Lauren",Sr Consultant,Cooley LLP,SpendConnect Insights,11% ,Feb-21
+165,"Freddo, William",Manager,Cooley LLP,SpendConnect Insights,9% ,Feb-21
+166,"Peasley, Marcus",Sr Consultant,Cooley LLP,SpendConnect Insights,1% ,Feb-21
+167,"Ikens, Laura",Sr Manager,Cooley LLP,SpendConnect Insights,1% ,Feb-21
+168,"De Vastey, Dominique",Sr Consultant,Cozen O'Connor,SELL,100% ,Dec-20
+169,"Witt, Diana",Manager,"Cravath, Swaine & Moore LLP",RIS Sourcing & Supplier Renewal Service,31% ,Feb-21
+170,"Habibian, Christopher",Consultant,"Cravath, Swaine & Moore LLP",RIS Sourcing & Supplier Renewal Service,30% ,Feb-21
+171,"Hegarty, John K",Sr Consultant,"Cravath, Swaine & Moore LLP",RIS Sourcing & Supplier Renewal Service,15% ,Nov-20
+172,"Freddo, William",Manager,"Cravath, Swaine & Moore LLP",RIS Sourcing & Supplier Renewal Service,9% ,Feb-21
+173,"Ervin, David",Consultant,"Cravath, Swaine & Moore LLP",RIS Sourcing & Supplier Renewal Service,5% ,Sep-20
+174,"Odom, Lauren",Sr Consultant,"Cravath, Swaine & Moore LLP",RIS Sourcing & Supplier Renewal Service,5% ,Feb-21
+175,"Chevel, Peggy",Sr Manager,"Cravath, Swaine & Moore LLP",RIS Sourcing & Supplier Renewal Service,4% ,Nov-20
+176,"Ikens, Laura",Sr Manager,"Cravath, Swaine & Moore LLP",RIS Sourcing & Supplier Renewal Service,1% ,Feb-21
+177,"Betthauser, Jacqueline",Consultant,"Cravath, Swaine & Moore LLP",RIS Sourcing & Supplier Renewal Service,1% ,Feb-21
+178,"Boyer, Taylor",Director,"Davis, Polk & Wardwell",SELL,100% ,Feb-21
+179,"Barton, Lacey",Sr Consultant,"Davis, Polk & Wardwell",Vendor Governance Benchmark Assessment,100% ,Nov-20
+180,"Betthauser, Jacqueline",Consultant,Dentons,SpendConnect,100% ,Feb-21
+181,"Peasley, Marcus",Sr Consultant,DLA Piper,SELL,54% ,Jan-21
+182,"Scherrer, Lauren",Director,DLA Piper,SELL,46% ,Feb-21
+183,"Hoffman, John",Sr Consultant,DLA Piper,Vendor Governance,22% ,Feb-21
+184,"Infante, Yahaira",Manager,DLA Piper,Vendor Governance,18% ,Feb-21
+185,"Johnson Jr, Robert",Sr Consultant,DLA Piper,Vendor Governance,17% ,Feb-21
+186,"Sklar, Stephanie",Director,DLA Piper,Vendor Governance,15% ,Dec-20
+187,"Nickey, Rebecca",Manager,DLA Piper,Vendor Governance,14% ,Feb-21
+188,"Li, Liszter",Sr Consultant,DLA Piper,Vendor Governance,6% ,Feb-21
+189,"Barton, Lacey",Sr Consultant,DLA Piper,Vendor Governance,2% ,Feb-21
+190,"Rabago, Josine Ruth",Sr Consultant,DLA Piper,Vendor Governance,2% ,Feb-21
+191,"Boyer, Taylor",Director,DLA Piper,Vendor Governance,1% ,Feb-21
+192,"Witt, Diana",Manager,DLA Piper,Vendor Governance,1% ,Feb-21
+193,"Cruz, Cheryll",Sr Manager,DLA Piper,Vendor Governance,1% ,Sep-20
+194,"Wasserman, Rafael",Sr Consultant,DLA Piper,Vendor Governance,0% ,Feb-21
+195,"Anderson, Sean",Director,DLA Piper,Vendor Governance,0% ,Feb-21
+196,"Habibian, Christopher",Consultant,DLA Piper,Vendor Governance,0% ,Jan-21
+197,"Steele, Jennifer",Manager,DLA Piper,Vendor Governance,0% ,Feb-21
+198,"Rosenberg., Matthew",Manager,DLA Piper,Vendor Governance,0% ,Dec-20
+199,"Cooley, Andrew",Consultant,DLA Piper,Vendor Governance,0% ,Jan-21
+200,"Freddo, William",Manager,DLA Piper,Vendor Governance,0% ,Jan-21
+201,"Scherrer, Lauren",Director,DLA Piper,Vendor Governance,0% ,Feb-21
+202,"Vu, Michael",Consultant,Dykema Gossett PLLC,SELL,86% ,Jan-21
+203,"Giang, Nathan",Sr Consultant,Dykema Gossett PLLC,SELL,14% ,Jan-21
+204,"Soren, Gerri",Sr Consultant,Dykema Gossett PLLC,Sourcing,37% ,Feb-21
+205,"Placzek, Aaron",Manager,Dykema Gossett PLLC,Sourcing,35% ,Feb-21
+206,"Wright, Brandon",Sr Director,Dykema Gossett PLLC,Sourcing,8% ,Feb-21
+207,"Rosenberg., Matthew",Manager,Dykema Gossett PLLC,Sourcing,7% ,Dec-20
+208,"Macias, Eduardo",Consultant,Dykema Gossett PLLC,Sourcing,7% ,Feb-21
+209,"Palmer, John",Manager,Dykema Gossett PLLC,Sourcing,4% ,Feb-21
+210,"Anderson, Sean",Director,Dykema Gossett PLLC,Sourcing,3% ,Feb-21
+211,"Gard, Wesley",Sr Manager,Dykema Gossett PLLC,Sourcing,0% ,Feb-21
+212,"Montgomery, Melissa",Manager,Engine Group Inc.,SELL,53% ,Feb-21
+213,"Vu, Michael",Consultant,Engine Group Inc.,SELL,47% ,Feb-21
+214,"Palmer, John",Manager,Engine Group Inc.,Strategic Sourcing Phase I,53% ,Feb-21
+215,"Montgomery, Melissa",Manager,Engine Group Inc.,Strategic Sourcing Phase I,47% ,Sep-20
+216,"Placzek, Aaron",Manager,Eversheds Sutherland,Project Earth,100% ,Feb-21
+217,"Vu, Michael",Consultant,Eversheds Sutherland,SELL,73% ,Feb-21
+218,"Giang, Nathan",Sr Consultant,Eversheds Sutherland,SELL,17% ,Dec-20
+219,"Placzek, Aaron",Manager,Eversheds Sutherland,SELL,10% ,Jan-21
+220,"Ulloa Medina, Gustavo",Manager,Eversheds Sutherland,Strategic Sourcing,36% ,Feb-21
+221,"Okafor, Arinze",Sr Consultant,Eversheds Sutherland,Strategic Sourcing,17% ,Jan-21
+222,"Wright, Brandon",Sr Director,Eversheds Sutherland,Strategic Sourcing,13% ,Feb-21
+223,"Bergonia, Caroline",Sr Consultant,Eversheds Sutherland,Strategic Sourcing,13% ,Jan-21
+224,"Steele, Jennifer",Manager,Eversheds Sutherland,Strategic Sourcing,8% ,Feb-21
+225,"Karpen, Sarah",Sr Manager,Eversheds Sutherland,Strategic Sourcing,5% ,Oct-20
+226,"Anderson, Sean",Director,Eversheds Sutherland,Strategic Sourcing,3% ,Feb-21
+227,"McClean, Kevin",Managing Director,Eversheds Sutherland,Strategic Sourcing,3% ,Feb-21
+228,"Palmer, John",Manager,Eversheds Sutherland,Strategic Sourcing,2% ,Oct-20
+229,"Cooley, Andrew",Consultant,Eversheds Sutherland,Strategic Sourcing,0% ,Feb-21
+230,"Vijayakumar, Ratheesh",Manager,Eversheds Sutherland,Strategic Sourcing,0% ,Sep-20
+231,"Rosenberg., Matthew",Manager,Eversheds Sutherland,Strategic Sourcing,0% ,Oct-20
+232,"Gard, Wesley",Sr Manager,Eversheds Sutherland,Strategic Sourcing,0% ,Jan-21
+233,"Cable, Colleen",Director,Faegre Drinker Biddle & Reath LLP,LAA + Practice Support Assessment,100% ,Dec-20
+234,"Giang, Nathan",Sr Consultant,Faegre Drinker Biddle & Reath LLP,SELL,100% ,Feb-21
+235,"Tworek, Olivia",Sr Manager,Faegre Drinker Biddle & Reath LLP,Sourcing Project,34% ,Feb-21
+236,"Patel, Shrina",Sr Consultant,Faegre Drinker Biddle & Reath LLP,Sourcing Project,28% ,Feb-21
+237,"Macias, Eduardo",Consultant,Faegre Drinker Biddle & Reath LLP,Sourcing Project,13% ,Feb-21
+238,"Anderson, Sean",Director,Faegre Drinker Biddle & Reath LLP,Sourcing Project,9% ,Feb-21
+239,"Rosenberg., Matthew",Manager,Faegre Drinker Biddle & Reath LLP,Sourcing Project,6% ,Dec-20
+240,"Freddo, William",Manager,Faegre Drinker Biddle & Reath LLP,Sourcing Project,4% ,Feb-21
+241,"Okafor, Arinze",Sr Consultant,Faegre Drinker Biddle & Reath LLP,Sourcing Project,2% ,Nov-20
+242,"Scherrer, Lauren",Director,Faegre Drinker Biddle & Reath LLP,Sourcing Project,2% ,Feb-21
+243,"Steele, Jennifer",Manager,Faegre Drinker Biddle & Reath LLP,Sourcing Project,1% ,Jan-21
+244,"McClean, Kevin",Managing Director,Faegre Drinker Biddle & Reath LLP,Sourcing Project,1% ,Feb-21
+245,"Habibian, Christopher",Consultant,Faegre Drinker Biddle & Reath LLP,Sourcing Project,0% ,Jan-21
+246,"King, Brian",Sr Consultant,Faegre Drinker Biddle & Reath LLP,Sourcing Project,0% ,Oct-20
+247,"Betthauser, Jacqueline",Consultant,Faegre Drinker Biddle & Reath LLP,Sourcing Project,0% ,Jan-21
+248,"Gard, Wesley",Sr Manager,Faegre Drinker Biddle & Reath LLP,SSBO Merger Sourcing - Signoff,79% ,Feb-21
+249,"Odom, Lauren",Sr Consultant,Faegre Drinker Biddle & Reath LLP,SSBO Merger Sourcing - Signoff,9% ,Dec-20
+250,"Anderson, Sean",Director,Faegre Drinker Biddle & Reath LLP,SSBO Merger Sourcing - Signoff,8% ,Nov-20
+251,"Habibian, Christopher",Consultant,Faegre Drinker Biddle & Reath LLP,SSBO Merger Sourcing - Signoff,4% ,Oct-20
+252,"King, Brian",Sr Consultant,Faegre Drinker Biddle & Reath LLP,SSBO Merger Sourcing - Signoff,1% ,Sep-20
+253,"Steele, Jennifer",Manager,Faegre Drinker Biddle & Reath LLP,Strategic Sourcing,100% ,Sep-20
+254,"Vijayakumar, Ratheesh",Manager,Fenwick & West LLP,Commodity Management,82% ,Feb-21
+255,"Wright, Brandon",Sr Director,Fenwick & West LLP,Commodity Management,18% ,Feb-21
+256,"Betthauser, Jacqueline",Consultant,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",RIS Sole Source Eval and Sourcing,80% ,Jan-21
+257,"Peasley, Marcus",Sr Consultant,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",RIS Sole Source Eval and Sourcing,15% ,Nov-20
+258,"Soren, Gerri",Sr Consultant,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",RIS Sole Source Eval and Sourcing,5% ,Dec-20
+259,"Giang, Nathan",Sr Consultant,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",SELL,52% ,Nov-20
+260,"Boyer, Taylor",Director,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",SELL,35% ,Dec-20
+261,"Barton, Lacey",Sr Consultant,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",SELL,13% ,Dec-20
+262,"Soren, Gerri",Sr Consultant,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,32% ,Feb-21
+263,"Kilicarslan, Christine",Manager,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,16% ,Feb-21
+264,"Gumila, Jeremy",Consultant,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,15% ,Feb-21
+265,"Macias, Eduardo",Consultant,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,11% ,Feb-21
+266,"Wright, Brandon",Sr Director,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,4% ,Feb-21
+267,"Bergonia, Caroline",Sr Consultant,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,4% ,Feb-21
+268,"Vijayakumar, Ratheesh",Manager,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,4% ,Feb-21
+269,"Peasley, Marcus",Sr Consultant,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,3% ,Feb-21
+270,"Anderson, Sean",Director,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,3% ,Feb-21
+271,"Gard, Wesley",Sr Manager,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,2% ,Feb-21
+272,"Betthauser, Jacqueline",Consultant,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,2% ,Feb-21
+273,"Rosenberg., Matthew",Manager,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,1% ,Dec-20
+274,"Odom, Lauren",Sr Consultant,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,1% ,Dec-20
+275,"Placzek, Aaron",Manager,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,0% ,Nov-20
+276,"Kiley, Joanne",Sr Manager,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,0% ,Feb-21
+277,"Scherrer, Lauren",Director,"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",Strategic Sourcing Services,0% ,Dec-20
+278,"Betthauser, Jacqueline",Consultant,"Fish & Richardson, P.C.",RIS Advisory Services,41% ,Nov-20
+279,"Peasley, Marcus",Sr Consultant,"Fish & Richardson, P.C.",RIS Advisory Services,38% ,Nov-20
+280,"Scherrer, Lauren",Director,"Fish & Richardson, P.C.",RIS Advisory Services,14% ,Nov-20
+281,"Odom, Lauren",Sr Consultant,"Fish & Richardson, P.C.",RIS Advisory Services,8% ,Feb-21
+282,"Betthauser, Jacqueline",Consultant,"Fish & Richardson, P.C.",RIS SpendConnect,100% ,Feb-21
+283,"Vu, Michael",Consultant,Fisher & Phillips LLP,SELL,100% ,Feb-21
+284,"Vu, Michael",Consultant,Fox Rothschild LLP,SELL,100% ,Dec-20
+285,"Cable, Colleen",Director,Freeborn & Peters LLP,Research Connect,100% ,Feb-21
+286,"Wright, Brandon",Sr Director,Freeborn & Peters LLP,SELL,100% ,Sep-20
+287,"Giang, Nathan",Sr Consultant,"Fried, Frank, Harris, Shriver & Jacobson",SELL,93% ,Feb-21
+288,"Cable, Colleen",Director,"Fried, Frank, Harris, Shriver & Jacobson",SELL,7% ,Feb-21
+289,"Peasley, Marcus",Sr Consultant,"Fried, Frank, Harris, Shriver & Jacobson",Westlaw Negotiation 2020,76% ,Feb-21
+290,"Chevel, Peggy",Sr Manager,"Fried, Frank, Harris, Shriver & Jacobson",Westlaw Negotiation 2020,24% ,Feb-21
+291,"Cable, Colleen",Director,Frost Brown Todd,SELL,100% ,Feb-21
+292,"Vu, Michael",Consultant,"Gibson, Dunn & Crutcher",SELL,88% ,Feb-21
+293,"Karpen, Sarah",Sr Manager,"Gibson, Dunn & Crutcher",SELL,9% ,Sep-20
+294,"Anderson, Sean",Director,"Gibson, Dunn & Crutcher",SELL,4% ,Sep-20
+295,"Palmer, John",Manager,"Gibson, Dunn & Crutcher",Sourcing - ORP,100% ,Feb-21
+296,"Palmer, John",Manager,"Gibson, Dunn & Crutcher",Sourcing - Records Management,55% ,Feb-21
+297,"Karpen, Sarah",Sr Manager,"Gibson, Dunn & Crutcher",Sourcing - Records Management,38% ,Feb-21
+298,"Anderson, Sean",Director,"Gibson, Dunn & Crutcher",Sourcing - Records Management,7% ,Dec-20
+299,"Wright, Brandon",Sr Director,Goodwin Procter LLP,SELL,90% ,Feb-21
+300,"Anderson, Sean",Director,Goodwin Procter LLP,SELL,10% ,Nov-20
+301,"Scherrer, Lauren",Director,Goodwin Procter LLP,Sourcing - Lexis,75% ,Nov-20
+302,"Peasley, Marcus",Sr Consultant,Goodwin Procter LLP,Sourcing - Lexis,25% ,Dec-20
+303,"Vu, Michael",Consultant,Green Dot,SELL,100% ,Feb-21
+304,"Vijayakumar, Ratheesh",Manager,Green Dot,Strategic Sourcing Services,62% ,Feb-21
+305,"Kilicarslan, Christine",Manager,Green Dot,Strategic Sourcing Services,38% ,Feb-21
+306,"Buchholz, Julia",Sr Consultant,"Greenberg Traurig, LLP",IT Sourcing Project,33% ,Feb-21
+307,"Cooley, Andrew",Consultant,"Greenberg Traurig, LLP",IT Sourcing Project,29% ,Feb-21
+308,"Steele, Jennifer",Manager,"Greenberg Traurig, LLP",IT Sourcing Project,28% ,Feb-21
+309,"Anderson, Sean",Director,"Greenberg Traurig, LLP",IT Sourcing Project,10% ,Jan-21
+310,"McClean, Kevin",Managing Director,"Greenberg Traurig, LLP",IT Sourcing Project,0% ,Dec-20
+311,"Ervin, David",Consultant,"Greenberg Traurig, LLP",RIS Sourcing Services for Thompson Reuters & LexisNexis,36% ,Sep-20
+312,"Martin, Kristopher",Sr Director,"Greenberg Traurig, LLP",RIS Sourcing Services for Thompson Reuters & LexisNexis,33% ,Sep-20
+313,"Ikens, Laura",Sr Manager,"Greenberg Traurig, LLP",RIS Sourcing Services for Thompson Reuters & LexisNexis,31% ,Sep-20
+314,"Giang, Nathan",Sr Consultant,"Greenberg Traurig, LLP",SELL,48% ,Feb-21
+315,"Barton, Lacey",Sr Consultant,"Greenberg Traurig, LLP",SELL,29% ,Feb-21
+316,"Vu, Michael",Consultant,"Greenberg Traurig, LLP",SELL,23% ,Feb-21
+317,"Noble, Caleb",Sr Consultant,Group Purchasing Organization,GPO Investment,71% ,Feb-21
+318,"Cruz, Cheryll",Sr Manager,Group Purchasing Organization,GPO Investment,29% ,Feb-21
+319,"Noble, Caleb",Sr Consultant,Group Purchasing Organization,GPO Sales,66% ,Feb-21
+320,"Cruz, Cheryll",Sr Manager,Group Purchasing Organization,GPO Sales,34% ,Feb-21
+321,"Sutherland, Jennifer",Consultant,Hawkins Parnell & Young LLP,RIS Managed Services,93% ,Feb-21
+322,"Cable, Colleen",Director,Hawkins Parnell & Young LLP,RIS Managed Services,2% ,Feb-21
+323,"Odom, Lauren",Sr Consultant,Hawkins Parnell & Young LLP,RIS Managed Services,2% ,Feb-21
+324,"Kiley, Joanne",Sr Manager,Hawkins Parnell & Young LLP,RIS Managed Services,2% ,Feb-21
+325,"Scherrer, Lauren",Director,Hawkins Parnell & Young LLP,RIS Managed Services,1% ,Jan-21
+326,"Forsher, Anna",Sr Consultant,Hawkins Parnell & Young LLP,RIS Managed Services,0% ,Oct-20
+327,"Kiley, Joanne",Sr Manager,Hawkins Parnell & Young LLP,SELL,91% ,Jan-21
+328,"Sutherland, Jennifer",Consultant,Hawkins Parnell & Young LLP,SELL,6% ,Oct-20
+329,"Terjesen, Donna",Managing Director,Hawkins Parnell & Young LLP,SELL,2% ,Sep-20
+330,"Chevel, Peggy",Sr Manager,"Haynes and Boone, LLP",RIS Spendconnect,73% ,Feb-21
+331,"Betthauser, Jacqueline",Consultant,"Haynes and Boone, LLP",RIS Spendconnect,27% ,Feb-21
+332,"Hegarty, John K",Sr Consultant,"Haynes and Boone, LLP",RIS TR & RELX Business Case and Support,100% ,Oct-20
+333,"Vu, Michael",Consultant,"Haynes and Boone, LLP",SELL,90% ,Oct-20
+334,"Cable, Colleen",Director,"Haynes and Boone, LLP",SELL,7% ,Feb-21
+335,"Talbot, Jack",Consultant,"Haynes and Boone, LLP",SELL,2% ,Sep-20
+336,"Palmer, John",Manager,HBR Consulting LLC,BP&A - Consulting Support,56% ,Feb-21
+337,"Vijayakumar, Ratheesh",Manager,HBR Consulting LLC,BP&A - Consulting Support,15% ,Feb-21
+338,"Vu, Michael",Consultant,HBR Consulting LLC,BP&A - Consulting Support,14% ,Feb-21
+339,"Giang, Nathan",Sr Consultant,HBR Consulting LLC,BP&A - Consulting Support,12% ,Feb-21
+340,"Talbot, Jack",Consultant,HBR Consulting LLC,BP&A - Consulting Support,1% ,Feb-21
+341,"Noble, Caleb",Sr Consultant,HBR Consulting LLC,GPO - Group Purchasing Organization,100% ,Feb-21
+342,"Cruz, Cheryll",Sr Manager,HBR Consulting LLC,GPO - Group Purchasing Organization,0% ,Oct-20
+343,"Bargar, Beverly",Consultant,HBR Consulting LLC,RIS Benchmarking & Legal Information Services Survey,31% ,Feb-21
+344,"Freddo, William",Manager,HBR Consulting LLC,RIS Benchmarking & Legal Information Services Survey,17% ,Feb-21
+345,"Cable, Colleen",Director,HBR Consulting LLC,RIS Benchmarking & Legal Information Services Survey,15% ,Feb-21
+346,"Forsher, Anna",Sr Consultant,HBR Consulting LLC,RIS Benchmarking & Legal Information Services Survey,11% ,Feb-21
+347,"Greco, Theresa",Manager,HBR Consulting LLC,RIS Benchmarking & Legal Information Services Survey,7% ,Dec-20
+348,"Sutherland, Jennifer",Consultant,HBR Consulting LLC,RIS Benchmarking & Legal Information Services Survey,5% ,Jan-21
+349,"Kiley, Joanne",Sr Manager,HBR Consulting LLC,RIS Benchmarking & Legal Information Services Survey,4% ,Feb-21
+350,"Habibian, Christopher",Consultant,HBR Consulting LLC,RIS Benchmarking & Legal Information Services Survey,3% ,Oct-20
+351,"Soren, Gerri",Sr Consultant,HBR Consulting LLC,RIS Benchmarking & Legal Information Services Survey,2% ,Jan-21
+352,"Ikens, Laura",Sr Manager,HBR Consulting LLC,RIS Benchmarking & Legal Information Services Survey,2% ,Feb-21
+353,"Noble, Caleb",Sr Consultant,HBR Consulting LLC,RIS Benchmarking & Legal Information Services Survey,0% ,Oct-20
+354,"Flemming, Axelle",Director,HBR Consulting LLC,RIS Managed Services,48% ,Nov-20
+355,"Kiley, Joanne",Sr Manager,HBR Consulting LLC,RIS Managed Services,39% ,Feb-21
+356,"Weber, Julie",Consultant,HBR Consulting LLC,RIS Managed Services,13% ,Feb-21
+357,"Johnson Jr, Robert",Sr Consultant,HBR Consulting LLC,RIS Managed Services,0% ,Sep-20
+358,"Bergonia, Caroline",Sr Consultant,HBR Consulting LLC,Sullivan & Cromwell - IT,100% ,Jan-21
+359,"Montgomery, Melissa",Manager,"Hinckley, Allen & Snyder LLP",SELL,53% ,Feb-21
+360,"Soren, Gerri",Sr Consultant,"Hinckley, Allen & Snyder LLP",SELL,23% ,Feb-21
+361,"Scherrer, Lauren",Director,"Hinckley, Allen & Snyder LLP",SELL,20% ,Feb-21
+362,"Freddo, William",Manager,"Hinckley, Allen & Snyder LLP",SELL,2% ,Feb-21
+363,"Ikens, Laura",Sr Manager,"Hinckley, Allen & Snyder LLP",SELL,2% ,Feb-21
+364,"Freddo, William",Manager,"Hinckley, Allen & Snyder LLP",Strategic Sourcing,43% ,Feb-21
+365,"Montgomery, Melissa",Manager,"Hinckley, Allen & Snyder LLP",Strategic Sourcing,39% ,Feb-21
+366,"Scherrer, Lauren",Director,"Hinckley, Allen & Snyder LLP",Strategic Sourcing,18% ,Feb-21
+367,"King, Brian",Sr Consultant,Hogan Lovells US LLP,RIS - Sourcing,33% ,Feb-21
+368,"Freddo, William",Manager,Hogan Lovells US LLP,RIS - Sourcing,32% ,Feb-21
+369,"Scherrer, Lauren",Director,Hogan Lovells US LLP,RIS - Sourcing,15% ,Feb-21
+370,"Odom, Lauren",Sr Consultant,Hogan Lovells US LLP,RIS - Sourcing,10% ,Feb-21
+371,"Habibian, Christopher",Consultant,Hogan Lovells US LLP,RIS - Sourcing,5% ,Feb-21
+372,"Martin, Kristopher",Sr Director,Hogan Lovells US LLP,RIS - Sourcing,2% ,Jan-21
+373,"Palmer, John",Manager,Hogan Lovells US LLP,RIS - Sourcing,1% ,Dec-20
+374,"Peasley, Marcus",Sr Consultant,Hogan Lovells US LLP,RIS - Sourcing,0% ,Jan-21
+375,"Hegarty, John K",Sr Consultant,Hogan Lovells US LLP,RIS - Sourcing,0% ,Jan-21
+376,"Betthauser, Jacqueline",Consultant,Hogan Lovells US LLP,RIS - Sourcing,0% ,Jan-21
+377,"Wasserman, Rafael",Sr Consultant,Hogan Lovells US LLP,RIS - Sourcing,0% ,Feb-21
+378,"Barton, Lacey",Sr Consultant,Hogan Lovells US LLP,SELL,43% ,Jan-21
+379,"Giang, Nathan",Sr Consultant,Hogan Lovells US LLP,SELL,28% ,Feb-21
+380,"Kilicarslan, Christine",Manager,Hogan Lovells US LLP,SELL,13% ,Jan-21
+381,"Anderson, Sean",Director,Hogan Lovells US LLP,SELL,8% ,Oct-20
+382,"Boyer, Taylor",Director,Hogan Lovells US LLP,SELL,7% ,Dec-20
+383,"Sutherland, Jennifer",Consultant,Hogan Lovells US LLP,SELL,1% ,Nov-20
+384,"Vu, Michael",Consultant,Hogan Lovells US LLP,SELL,1% ,Dec-20
+385,"Bergonia, Caroline",Sr Consultant,Hogan Lovells US LLP,SELL,0% ,Oct-20
+386,"Cable, Colleen",Director,Holland & Knight LLP,SELL,57% ,Feb-21
+387,"Witt, Diana",Manager,Holland & Knight LLP,SELL,29% ,Sep-20
+388,"Kilicarslan, Christine",Manager,Holland & Knight LLP,SELL,14% ,Sep-20
+389,"Habibian, Christopher",Consultant,Hunton Andrews Kurth LLP,SELL,56% ,Dec-20
+390,"Terjesen, Donna",Managing Director,Hunton Andrews Kurth LLP,SELL,54% ,Feb-21
+391,"Kilicarslan, Christine",Manager,Hunton Andrews Kurth LLP,SELL,44% ,Jan-21
+392,"Freddo, William",Manager,Hunton Andrews Kurth LLP,SELL,38% ,Dec-20
+393,"Kilicarslan, Christine",Manager,Hunton Andrews Kurth LLP,SELL,6% ,Nov-20
+394,"Ikens, Laura",Sr Manager,Hunton Andrews Kurth LLP,SELL,2% ,Sep-20
+395,"Cable, Colleen",Director,Hunton Andrews Kurth LLP,SELL,1% ,Jan-21
+396,"Terjesen, Donna",Managing Director,Ice Miller LLP,SELL,100% ,Jan-21
+397,"Wright, Brandon",Sr Director,Jackson Lewis P.C.,SELL,42% ,Feb-21
+398,"Giang, Nathan",Sr Consultant,Jackson Lewis P.C.,SELL,28% ,Oct-20
+399,"Kilicarslan, Christine",Manager,Jackson Lewis P.C.,SELL,19% ,Nov-20
+400,"Vu, Michael",Consultant,Jackson Lewis P.C.,SELL,6% ,Sep-20
+401,"Vijayakumar, Ratheesh",Manager,Jackson Lewis P.C.,SELL,4% ,Feb-21
+402,"Freddo, William",Manager,Jenner & Block LLP,SELL,100% ,Jan-21
+403,"Scherrer, Lauren",Director,K&L Gates LLP,Lexis Negotiation,100% ,Oct-20
+404,"Giang, Nathan",Sr Consultant,K&L Gates LLP,SELL,80% ,Feb-21
+405,"Placzek, Aaron",Manager,K&L Gates LLP,SELL,20% ,Nov-20
+406,"Kiley, Joanne",Sr Manager,Kaiser Permanente,Copyright Policy Implementation - GL String: 0308-30000-7711,100% ,Dec-20
+407,"Kiley, Joanne",Sr Manager,Kaiser Permanente,Interim Library Support and Assessment,100% ,Feb-21
+408,"Kiley, Joanne",Sr Manager,Kaiser Permanente,SELL,53% ,Feb-21
+409,"Forsher, Anna",Sr Consultant,Kaiser Permanente,SELL,47% ,Dec-20
+410,"King, Stephanie",Manager,Kilpatrick Townsend & Stockton LLP,Managed Services - Fixed Fee,52% ,Feb-21
+411,"Valentine, Joanne",Director,Kilpatrick Townsend & Stockton LLP,Managed Services - Fixed Fee,20% ,Oct-20
+412,"Rabago, Josine Ruth",Sr Consultant,Kilpatrick Townsend & Stockton LLP,Managed Services - Fixed Fee,16% ,Feb-21
+413,"Ulloa Medina, Gustavo",Manager,Kilpatrick Townsend & Stockton LLP,Managed Services - Fixed Fee,4% ,Feb-21
+414,"Fox, Clayton",Sr Director,Kilpatrick Townsend & Stockton LLP,Managed Services - Fixed Fee,3% ,Feb-21
+415,"Macias, Eduardo",Consultant,Kilpatrick Townsend & Stockton LLP,Managed Services - Fixed Fee,2% ,Feb-21
+416,"Vijayakumar, Ratheesh",Manager,Kilpatrick Townsend & Stockton LLP,Managed Services - Fixed Fee,1% ,Oct-20
+417,"Betthauser, Jacqueline",Consultant,Kilpatrick Townsend & Stockton LLP,Managed Services - Fixed Fee,1% ,Sep-20
+418,"Lapid, Philip",Sr Consultant,Kilpatrick Townsend & Stockton LLP,Managed Services - Fixed Fee,1% ,Feb-21
+419,"Ammendola, Devlin Ann",Sr Consultant,Kilpatrick Townsend & Stockton LLP,Managed Services - Fixed Fee,1% ,Dec-20
+420,"Anderson, Sean",Director,Kilpatrick Townsend & Stockton LLP,Managed Services - Fixed Fee,0% ,Feb-21
+421,"Rosenberg., Matthew",Manager,Kilpatrick Townsend & Stockton LLP,Managed Services - Fixed Fee,0% ,Nov-20
+422,"Gard, Wesley",Sr Manager,Kilpatrick Townsend & Stockton LLP,Managed Services - Fixed Fee,0% ,Feb-21
+423,"Steele, Jennifer",Manager,Kilpatrick Townsend & Stockton LLP,Managed Services - Fixed Fee,0% ,Sep-20
+424,"Sutherland, Jennifer",Consultant,Kilpatrick Townsend & Stockton LLP,Research Connect,100% ,Feb-21
+425,"Kiley, Joanne",Sr Manager,Kilpatrick Townsend & Stockton LLP,Research Connect,0% ,Nov-20
+426,"Kiley, Joanne",Sr Manager,Kilpatrick Townsend & Stockton LLP,RIS Managed - Full,67% ,Feb-21
+427,"Greco, Theresa",Manager,Kilpatrick Townsend & Stockton LLP,RIS Managed - Full,17% ,Feb-21
+428,"Habibian, Christopher",Consultant,Kilpatrick Townsend & Stockton LLP,RIS Managed - Full,12% ,Feb-21
+429,"Freddo, William",Manager,Kilpatrick Townsend & Stockton LLP,RIS Managed - Full,2% ,Jan-21
+430,"Ervin, David",Consultant,Kilpatrick Townsend & Stockton LLP,RIS Managed - Full,2% ,Sep-20
+431,"Bargar, Beverly",Consultant,Kilpatrick Townsend & Stockton LLP,RIS Managed - Full,1% ,Jan-21
+432,"Cable, Colleen",Director,Kilpatrick Townsend & Stockton LLP,RIS Managed - Full,0% ,Sep-20
+433,"Vercellino, Jessica",Manager,Kilpatrick Townsend & Stockton LLP,SELL,100% ,Feb-21
+434,"Anderson, Sean",Director,King & Spalding,SELL,53% ,Feb-21
+435,"Steele, Jennifer",Manager,King & Spalding,SELL,47% ,Oct-20
+436,"Patel, Shrina",Sr Consultant,Kirkland & Ellis LLP,2021 Finance Initiatives,100% ,Feb-21
+437,"Barton, Lacey",Sr Consultant,Kirkland & Ellis LLP,Assessment Implementation Extension,93% ,Feb-21
+438,"Boyer, Taylor",Director,Kirkland & Ellis LLP,Assessment Implementation Extension,7% ,Feb-21
+439,"Barton, Lacey",Sr Consultant,Kirkland & Ellis LLP,Assessment Implementation Support,90% ,Dec-20
+440,"Boyer, Taylor",Director,Kirkland & Ellis LLP,Assessment Implementation Support,10% ,Dec-20
+441,"Placzek, Aaron",Manager,Kirkland & Ellis LLP,BMO Harris Pcard,76% ,Oct-20
+442,"Anderson, Sean",Director,Kirkland & Ellis LLP,BMO Harris Pcard,24% ,Nov-20
+443,"Barton, Lacey",Sr Consultant,Kirkland & Ellis LLP,Expense Management Assessment,65% ,Feb-21
+444,"Boyer, Taylor",Director,Kirkland & Ellis LLP,Expense Management Assessment,35% ,Feb-21
+445,"Vu, Michael",Consultant,Kirkland & Ellis LLP,SELL,33% ,Feb-21
+446,"Barton, Lacey",Sr Consultant,Kirkland & Ellis LLP,SELL,29% ,Nov-20
+447,"Giang, Nathan",Sr Consultant,Kirkland & Ellis LLP,SELL,14% ,Oct-20
+448,"Boyer, Taylor",Director,Kirkland & Ellis LLP,SELL,10% ,Dec-20
+449,"Anderson, Sean",Director,Kirkland & Ellis LLP,SELL,8% ,Jan-21
+450,"Steele, Jennifer",Manager,Kirkland & Ellis LLP,SELL,4% ,Oct-20
+451,"Palmer, John",Manager,Kirkland & Ellis LLP,SELL,1% ,Nov-20
+452,"Freddo, William",Manager,Lane Powell PC,SELL,79% ,Feb-21
+453,"Scherrer, Lauren",Director,Lane Powell PC,SELL,13% ,Feb-21
+454,"Ikens, Laura",Sr Manager,Lane Powell PC,SELL,8% ,Feb-21
+455,"Peasley, Marcus",Sr Consultant,Latham & Watkins LLP,Latham & Watkins RIS Phase III,100% ,Sep-20
+456,"Freddo, William",Manager,Latham & Watkins LLP,Latham RIS Sourcing,38% ,Feb-21
+457,"King, Brian",Sr Consultant,Latham & Watkins LLP,Latham RIS Sourcing,36% ,Feb-21
+458,"Scherrer, Lauren",Director,Latham & Watkins LLP,Latham RIS Sourcing,18% ,Feb-21
+459,"Odom, Lauren",Sr Consultant,Latham & Watkins LLP,Latham RIS Sourcing,6% ,Nov-20
+460,"Habibian, Christopher",Consultant,Latham & Watkins LLP,Latham RIS Sourcing,1% ,Oct-20
+461,"Peasley, Marcus",Sr Consultant,Linklaters LLP,"RIS TR, RELX & WK Business Cases",49% ,Nov-20
+462,"Witt, Diana",Manager,Linklaters LLP,"RIS TR, RELX & WK Business Cases",41% ,Dec-20
+463,"Martin, Kristopher",Sr Director,Linklaters LLP,"RIS TR, RELX & WK Business Cases",5% ,Sep-20
+464,"Hegarty, John K",Sr Consultant,Linklaters LLP,"RIS TR, RELX & WK Business Cases",4% ,Sep-20
+465,"Odom, Lauren",Sr Consultant,Linklaters LLP,"RIS TR, RELX & WK Business Cases",1% ,Sep-20
+466,"Freddo, William",Manager,Linklaters LLP,"RIS TR, RELX & WK Business Cases",1% ,Nov-20
+467,"Ikens, Laura",Sr Manager,Linklaters LLP,SELL,33% ,Oct-20
+468,"Witt, Diana",Manager,Linklaters LLP,SELL,33% ,Feb-21
+469,"Habibian, Christopher",Consultant,Linklaters LLP,SELL,22% ,Sep-20
+470,"Peasley, Marcus",Sr Consultant,Linklaters LLP,SELL,11% ,Feb-21
+471,"Chevel, Peggy",Sr Manager,Locke Lord LLP,SELL,49% ,Feb-21
+472,"Giang, Nathan",Sr Consultant,Locke Lord LLP,SELL,38% ,Feb-21
+473,"Witt, Diana",Manager,Locke Lord LLP,SELL,13% ,Feb-21
+474,"Ammendola, Devlin Ann",Sr Consultant,Locke Lord LLP,SpendConnect,100% ,Feb-21
+475,"King, Brian",Sr Consultant,Lowenstein Sandler LLP,SELL,35% ,Feb-21
+476,"Giang, Nathan",Sr Consultant,Lowenstein Sandler LLP,SELL,26% ,Feb-21
+477,"Steele, Jennifer",Manager,Lowenstein Sandler LLP,SELL,15% ,Feb-21
+478,"Scherrer, Lauren",Director,Lowenstein Sandler LLP,SELL,14% ,Feb-21
+479,"Anderson, Sean",Director,Lowenstein Sandler LLP,SELL,6% ,Feb-21
+480,"Witt, Diana",Manager,Lowenstein Sandler LLP,SELL,4% ,Dec-20
+481,"Cooley, Andrew",Consultant,Lowenstein Sandler LLP,SpendConnect-Contract Management Spend Analytics,100% ,Nov-20
+482,"Peasley, Marcus",Sr Consultant,Lowenstein Sandler LLP,TR & RELX,58% ,Nov-20
+483,"Scherrer, Lauren",Director,Lowenstein Sandler LLP,TR & RELX,19% ,Jan-21
+484,"Odom, Lauren",Sr Consultant,Lowenstein Sandler LLP,TR & RELX,13% ,Feb-21
+485,"Freddo, William",Manager,Lowenstein Sandler LLP,TR & RELX,10% ,Dec-20
+486,"Vijayakumar, Ratheesh",Manager,Magnolia,SELL,55% ,Jan-21
+487,"Giang, Nathan",Sr Consultant,Magnolia,SELL,36% ,Feb-21
+488,"Palmer, John",Manager,Magnolia,SELL,9% ,Feb-21
+489,"Palmer, John",Manager,Magnolia,Sourcing Phase I,31% ,Feb-21
+490,"Braun, Wesley",Manager,Magnolia,Sourcing Phase I,31% ,Feb-21
+491,"Patel, Shrina",Sr Consultant,Magnolia,Sourcing Phase I,30% ,Feb-21
+492,"Wright, Brandon",Sr Director,Magnolia,Sourcing Phase I,7% ,Feb-21
+493,"McClean, Kevin",Managing Director,Magnolia,Sourcing Phase I,1% ,Feb-21
+494,"Vu, Michael",Consultant,MaxLinear,SELL,97% ,Jan-21
+495,"Rosenberg., Matthew",Manager,MaxLinear,SELL,3% ,Nov-20
+496,"Rosenberg., Matthew",Manager,MaxLinear,Strategic Sourcing Phase I,100% ,Sep-20
+497,"McClean, Kevin",Managing Director,McCarthy Tetrault LLP,SELL,50% ,Sep-20
+498,"Steele, Jennifer",Manager,McCarthy Tetrault LLP,SELL,25% ,Sep-20
+499,"Vu, Michael",Consultant,McCarthy Tetrault LLP,SELL,25% ,Feb-21
+500,"Buchholz, Julia",Sr Consultant,McCarthy Tetrault LLP,Sourcing Project,37% ,Feb-21
+501,"Steele, Jennifer",Manager,McCarthy Tetrault LLP,Sourcing Project,29% ,Feb-21
+502,"Cooley, Andrew",Consultant,McCarthy Tetrault LLP,Sourcing Project,19% ,Feb-21
+503,"Anderson, Sean",Director,McCarthy Tetrault LLP,Sourcing Project,14% ,Feb-21
+504,"McClean, Kevin",Managing Director,McCarthy Tetrault LLP,Sourcing Project,0% ,Dec-20
+505,"Wright, Brandon",Sr Director,McDermott Will & Emery LLP,Records Management Sourcing,86% ,Oct-20
+506,"Bergonia, Caroline",Sr Consultant,McDermott Will & Emery LLP,Records Management Sourcing,14% ,Oct-20
+507,"Placzek, Aaron",Manager,McDermott Will & Emery LLP,SELL,45% ,Oct-20
+508,"Soren, Gerri",Sr Consultant,McDermott Will & Emery LLP,SELL,30% ,Oct-20
+509,"Talbot, Jack",Consultant,McDermott Will & Emery LLP,SELL,14% ,Oct-20
+510,"Wright, Brandon",Sr Director,McDermott Will & Emery LLP,SELL,11% ,Nov-20
+511,"Steele, Jennifer",Manager,McDermott Will & Emery LLP,SELL,1% ,Sep-20
+512,"Peasley, Marcus",Sr Consultant,Milbank LLP,RIS Assessment,58% ,Dec-20
+513,"Chevel, Peggy",Sr Manager,Milbank LLP,RIS Assessment,14% ,Dec-20
+514,"Scherrer, Lauren",Director,Milbank LLP,RIS Assessment,10% ,Dec-20
+515,"Odom, Lauren",Sr Consultant,Milbank LLP,RIS Assessment,8% ,Oct-20
+516,"Habibian, Christopher",Consultant,Milbank LLP,RIS Assessment,6% ,Sep-20
+517,"Martin, Kristopher",Sr Director,Milbank LLP,RIS Assessment,3% ,Dec-20
+518,"Betthauser, Jacqueline",Consultant,Milbank LLP,RIS Assessment,0% ,Dec-20
+519,"Steele, Jennifer",Manager,Milbank LLP,SELL,45% ,Jan-21
+520,"Anderson, Sean",Director,Milbank LLP,SELL,35% ,Feb-21
+521,"Barton, Lacey",Sr Consultant,Milbank LLP,SELL,13% ,Jan-21
+522,"Scherrer, Lauren",Director,Milbank LLP,SELL,7% ,Jan-21
+523,"Buchholz, Julia",Sr Consultant,Milbank LLP,Workday POC,57% ,Feb-21
+524,"Anderson, Sean",Director,Milbank LLP,Workday POC,18% ,Jan-21
+525,"Steele, Jennifer",Manager,Milbank LLP,Workday POC,17% ,Jan-21
+526,"Cooley, Andrew",Consultant,Milbank LLP,Workday POC,8% ,Jan-21
+527,"Vu, Michael",Consultant,"Monster Worldwide, Inc.",SELL,100% ,Feb-21
+528,"Okafor, Arinze",Sr Consultant,"Monster Worldwide, Inc.",Strategic Sourcing,62% ,Feb-21
+529,"Ulloa Medina, Gustavo",Manager,"Monster Worldwide, Inc.",Strategic Sourcing,15% ,Feb-21
+530,"Wright, Brandon",Sr Director,"Monster Worldwide, Inc.",Strategic Sourcing,11% ,Feb-21
+531,"Buchholz, Julia",Sr Consultant,"Monster Worldwide, Inc.",Strategic Sourcing,5% ,Feb-21
+532,"Steele, Jennifer",Manager,"Monster Worldwide, Inc.",Strategic Sourcing,3% ,Feb-21
+533,"Anderson, Sean",Director,"Monster Worldwide, Inc.",Strategic Sourcing,2% ,Feb-21
+534,"Cooley, Andrew",Consultant,"Monster Worldwide, Inc.",Strategic Sourcing,1% ,Feb-21
+535,"Lapid, Philip",Sr Consultant,"Monster Worldwide, Inc.",Strategic Sourcing,0% ,Dec-20
+536,"Patel, Shrina",Sr Consultant,"Monster Worldwide, Inc.",Strategic Sourcing,0% ,Dec-20
+537,"Betthauser, Jacqueline",Consultant,"Morgan, Lewis & Bockius LLP",RIS SpendConnect,76% ,Feb-21
+538,"Peasley, Marcus",Sr Consultant,"Morgan, Lewis & Bockius LLP",RIS SpendConnect,24% ,Nov-20
+539,"Giang, Nathan",Sr Consultant,"Morgan, Lewis & Bockius LLP",SELL,100% ,Oct-20
+540,"Shellenback, Reid",Consultant,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,23% ,Feb-21
+541,"Wasserman, Rafael",Sr Consultant,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,22% ,Feb-21
+542,"Hallock, Scott",Consultant,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,22% ,Feb-21
+543,"De Vastey, Dominique",Sr Consultant,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,10% ,Feb-21
+544,"Wismer, Christina",Sr Consultant,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,8% ,Feb-21
+545,"Romano, Chiharu",Director,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,4% ,Feb-21
+546,"Fox, Clayton",Sr Director,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,3% ,Feb-21
+547,"Steele, Jennifer",Manager,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,2% ,Feb-21
+548,"Habibian, Christopher",Consultant,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,1% ,Feb-21
+549,"Witt, Diana",Manager,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,1% ,Feb-21
+550,"Freddo, William",Manager,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,1% ,Feb-21
+551,"Rabago, Josine Ruth",Sr Consultant,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,1% ,Feb-21
+552,"Macias, Eduardo",Consultant,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,0% ,Feb-21
+553,"Anderson, Sean",Director,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,0% ,Feb-21
+554,"Peasley, Marcus",Sr Consultant,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,0% ,Feb-21
+555,"Scherrer, Lauren",Director,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,0% ,Feb-21
+556,"Bergonia, Caroline",Sr Consultant,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,0% ,Feb-21
+557,"Rosenberg., Matthew",Manager,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,0% ,Oct-20
+558,"Gard, Wesley",Sr Manager,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,0% ,Feb-21
+559,"Betthauser, Jacqueline",Consultant,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,0% ,Dec-20
+560,"Lapid, Philip",Sr Consultant,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,0% ,Sep-20
+561,"Odom, Lauren",Sr Consultant,"Morgan, Lewis & Bockius LLP",Vendor Management Office Procurement,0% ,Feb-21
+562,"Giang, Nathan",Sr Consultant,Morrison & Foerster LLP,SELL,49% ,Feb-21
+563,"Boyer, Taylor",Director,Morrison & Foerster LLP,SELL,22% ,Dec-20
+564,"Barton, Lacey",Sr Consultant,Morrison & Foerster LLP,SELL,22% ,Nov-20
+565,"Kilicarslan, Christine",Manager,Morrison & Foerster LLP,SELL,7% ,Feb-21
+566,"Barton, Lacey",Sr Consultant,Morrison & Foerster LLP,Vendor Governance Assessment,62% ,Feb-21
+567,"Boyer, Taylor",Director,Morrison & Foerster LLP,Vendor Governance Assessment,33% ,Feb-21
+568,"Kilicarslan, Christine",Manager,Morrison & Foerster LLP,Vendor Governance Assessment,5% ,Feb-21
+569,"Terjesen, Donna",Managing Director,"Murtha, Cullina LLP",SELL,100% ,Jan-21
+570,"Wright, Brandon",Sr Director,Nationwide Insurance,SELL,100% ,Feb-21
+571,"Bergonia, Caroline",Sr Consultant,Nationwide Insurance,Sourcing Project,63% ,Feb-21
+572,"Anderson, Sean",Director,Nationwide Insurance,Sourcing Project,16% ,Feb-21
+573,"Placzek, Aaron",Manager,Nationwide Insurance,Sourcing Project,13% ,Feb-21
+574,"Vijayakumar, Ratheesh",Manager,Nationwide Insurance,Sourcing Project,4% ,Feb-21
+575,"Soren, Gerri",Sr Consultant,Nationwide Insurance,Sourcing Project,4% ,Feb-21
+576,"Terjesen, Donna",Managing Director,Nexsen Pruet PLLC,SELL,100% ,Jan-21
+577,"Soren, Gerri",Sr Consultant,"Ogletree, Deakins, Nash, Smoak & Stewart, P.C.",SELL,70% ,Oct-20
+578,"Cable, Colleen",Director,"Ogletree, Deakins, Nash, Smoak & Stewart, P.C.",SELL,30% ,Nov-20
+579,"Cable, Colleen",Director,O'Melveny & Myers LLP,Research Connect,100% ,Dec-20
+580,"Habibian, Christopher",Consultant,O'Melveny & Myers LLP,RIS Supplier Renewal Service and Sourcing,40% ,Feb-21
+581,"Witt, Diana",Manager,O'Melveny & Myers LLP,RIS Supplier Renewal Service and Sourcing,28% ,Feb-21
+582,"Freddo, William",Manager,O'Melveny & Myers LLP,RIS Supplier Renewal Service and Sourcing,15% ,Feb-21
+583,"Ervin, David",Consultant,O'Melveny & Myers LLP,RIS Supplier Renewal Service and Sourcing,11% ,Sep-20
+584,"Odom, Lauren",Sr Consultant,O'Melveny & Myers LLP,RIS Supplier Renewal Service and Sourcing,4% ,Feb-21
+585,"Peasley, Marcus",Sr Consultant,O'Melveny & Myers LLP,RIS Supplier Renewal Service and Sourcing,2% ,Feb-21
+586,"Ikens, Laura",Sr Manager,O'Melveny & Myers LLP,RIS Supplier Renewal Service and Sourcing,1% ,Feb-21
+587,"Scherrer, Lauren",Director,O'Melveny & Myers LLP,RIS Supplier Renewal Service and Sourcing,0% ,Feb-21
+588,"Cable, Colleen",Director,O'Melveny & Myers LLP,SELL,100% ,Oct-20
+589,"Cable, Colleen",Director,"Orrick, Herrington & Sutcliffe LLP",SELL,100% ,Jan-21
+590,"Hegarty, John K",Sr Consultant,Patterson Belknap Webb & Tyler LLP,RIS Sourcing,76% ,Sep-20
+591,"Chevel, Peggy",Sr Manager,Patterson Belknap Webb & Tyler LLP,RIS Sourcing,13% ,Sep-20
+592,"Habibian, Christopher",Consultant,Patterson Belknap Webb & Tyler LLP,RIS Sourcing,8% ,Sep-20
+593,"Scherrer, Lauren",Director,Patterson Belknap Webb & Tyler LLP,RIS Sourcing,2% ,Sep-20
+594,"Giang, Nathan",Sr Consultant,Patterson Belknap Webb & Tyler LLP,SELL,100% ,Feb-21
+595,"Montgomery, Melissa",Manager,Patterson Belknap Webb & Tyler LLP,Strategic Sourcing,53% ,Feb-21
+596,"Hegarty, John K",Sr Consultant,Patterson Belknap Webb & Tyler LLP,Strategic Sourcing,21% ,Feb-21
+597,"Chevel, Peggy",Sr Manager,Patterson Belknap Webb & Tyler LLP,Strategic Sourcing,8% ,Feb-21
+598,"Palmer, John",Manager,Patterson Belknap Webb & Tyler LLP,Strategic Sourcing,7% ,Feb-21
+599,"Odom, Lauren",Sr Consultant,Patterson Belknap Webb & Tyler LLP,Strategic Sourcing,6% ,Feb-21
+600,"Wright, Brandon",Sr Director,Patterson Belknap Webb & Tyler LLP,Strategic Sourcing,3% ,Feb-21
+601,"Macias, Eduardo",Consultant,Patterson Belknap Webb & Tyler LLP,Strategic Sourcing,1% ,Sep-20
+602,"Vijayakumar, Ratheesh",Manager,Patterson Belknap Webb & Tyler LLP,Strategic Sourcing,1% ,Oct-20
+603,"Rosenberg., Matthew",Manager,Patterson Belknap Webb & Tyler LLP,Strategic Sourcing,1% ,Dec-20
+604,"Steele, Jennifer",Manager,Patterson Belknap Webb & Tyler LLP,Strategic Sourcing,0% ,Oct-20
+605,"Cable, Colleen",Director,"Paul, Hastings LLP",SELL,100% ,Dec-20
+606,"Cooley, Andrew",Consultant,"Paul, Weiss, Rifkind, Wharton & Garrison LLP",IT Sourcing,28% ,Feb-21
+607,"Buchholz, Julia",Sr Consultant,"Paul, Weiss, Rifkind, Wharton & Garrison LLP",IT Sourcing,22% ,Feb-21
+608,"Placzek, Aaron",Manager,"Paul, Weiss, Rifkind, Wharton & Garrison LLP",IT Sourcing,20% ,Jan-21
+609,"Steele, Jennifer",Manager,"Paul, Weiss, Rifkind, Wharton & Garrison LLP",IT Sourcing,17% ,Feb-21
+610,"Anderson, Sean",Director,"Paul, Weiss, Rifkind, Wharton & Garrison LLP",IT Sourcing,12% ,Feb-21
+611,"Palmer, John",Manager,"Paul, Weiss, Rifkind, Wharton & Garrison LLP",IT Sourcing,0% ,Jan-21
+612,"Bergonia, Caroline",Sr Consultant,"Paul, Weiss, Rifkind, Wharton & Garrison LLP",IT Sourcing,0% ,Nov-20
+613,"McClean, Kevin",Managing Director,"Paul, Weiss, Rifkind, Wharton & Garrison LLP",IT Sourcing,0% ,Dec-20
+614,"Gard, Wesley",Sr Manager,"Paul, Weiss, Rifkind, Wharton & Garrison LLP",IT Sourcing,0% ,Jan-21
+615,"Betthauser, Jacqueline",Consultant,"Paul, Weiss, Rifkind, Wharton & Garrison LLP",RIS SpendConnect,91% ,Feb-21
+616,"Peasley, Marcus",Sr Consultant,"Paul, Weiss, Rifkind, Wharton & Garrison LLP",RIS SpendConnect,9% ,Oct-20
+617,"Betthauser, Jacqueline",Consultant,"Paul, Weiss, Rifkind, Wharton & Garrison LLP",SpendConnect,100% ,Feb-21
+618,"Barton, Lacey",Sr Consultant,"Perkins Coie, LLP",SELL,44% ,Dec-20
+619,"Giang, Nathan",Sr Consultant,"Perkins Coie, LLP",SELL,33% ,Dec-20
+620,"Vu, Michael",Consultant,"Perkins Coie, LLP",SELL,12% ,Dec-20
+621,"Cable, Colleen",Director,"Perkins Coie, LLP",SELL,5% ,Jan-21
+622,"Boyer, Taylor",Director,"Perkins Coie, LLP",SELL,3% ,Nov-20
+623,"Kilicarslan, Christine",Manager,"Perkins Coie, LLP",SELL,2% ,Dec-20
+624,"Bergonia, Caroline",Sr Consultant,"Perkins Coie, LLP",SELL,1% ,Sep-20
+625,"Peasley, Marcus",Sr Consultant,Pillsbury Winthrop Shaw Pittman LLP,RIS Sourcing Services,100% ,Feb-21
+626,"Giang, Nathan",Sr Consultant,Pillsbury Winthrop Shaw Pittman LLP,SELL,58% ,Feb-21
+627,"Terjesen, Donna",Managing Director,Pillsbury Winthrop Shaw Pittman LLP,SELL,24% ,Jan-21
+628,"Cable, Colleen",Director,Pillsbury Winthrop Shaw Pittman LLP,SELL,18% ,Jan-21
+629,"Nwabara, Jasmine",Sr Consultant,Polsinelli,Contract Management and SpendConnect,38% ,Feb-21
+630,"Steele, Jennifer",Manager,Polsinelli,Contract Management and SpendConnect,20% ,Feb-21
+631,"King, Brian",Sr Consultant,Polsinelli,Contract Management and SpendConnect,13% ,Feb-21
+632,"Buchholz, Julia",Sr Consultant,Polsinelli,Contract Management and SpendConnect,6% ,Jan-21
+633,"Bergonia, Caroline",Sr Consultant,Polsinelli,Contract Management and SpendConnect,6% ,Feb-21
+634,"Peasley, Marcus",Sr Consultant,Polsinelli,Contract Management and SpendConnect,5% ,Feb-21
+635,"Vijayakumar, Ratheesh",Manager,Polsinelli,Contract Management and SpendConnect,3% ,Feb-21
+636,"Boyer, Taylor",Director,Polsinelli,Contract Management and SpendConnect,3% ,Feb-21
+637,"Anderson, Sean",Director,Polsinelli,Contract Management and SpendConnect,2% ,Feb-21
+638,"Betthauser, Jacqueline",Consultant,Polsinelli,Contract Management and SpendConnect,2% ,Feb-21
+639,"Scherrer, Lauren",Director,Polsinelli,Contract Management and SpendConnect,2% ,Feb-21
+640,"Freddo, William",Manager,Polsinelli,Contract Management and SpendConnect,0% ,Feb-21
+641,"Steele, Jennifer",Manager,Polsinelli,Procurement Managed Solutions,30% ,Jan-21
+642,"Nwabara, Jasmine",Sr Consultant,Polsinelli,Procurement Managed Solutions,28% ,Dec-20
+643,"Bergonia, Caroline",Sr Consultant,Polsinelli,Procurement Managed Solutions,10% ,Jan-21
+644,"Rabago, Josine Ruth",Sr Consultant,Polsinelli,Procurement Managed Solutions,8% ,Jan-21
+645,"McClean, Kevin",Managing Director,Polsinelli,Procurement Managed Solutions,5% ,Jan-21
+646,"Witt, Diana",Manager,Polsinelli,Procurement Managed Solutions,4% ,Nov-20
+647,"Anderson, Sean",Director,Polsinelli,Procurement Managed Solutions,3% ,Oct-20
+648,"Vijayakumar, Ratheesh",Manager,Polsinelli,Procurement Managed Solutions,3% ,Nov-20
+649,"Karpen, Sarah",Sr Manager,Polsinelli,Procurement Managed Solutions,3% ,Dec-20
+650,"Gard, Wesley",Sr Manager,Polsinelli,Procurement Managed Solutions,2% ,Jan-21
+651,"Cooley, Andrew",Consultant,Polsinelli,Procurement Managed Solutions,2% ,Jan-21
+652,"Hegarty, John K",Sr Consultant,Polsinelli,Procurement Managed Solutions,1% ,Sep-20
+653,"Lapid, Philip",Sr Consultant,Polsinelli,Procurement Managed Solutions,1% ,Sep-20
+654,"Barton, Lacey",Sr Consultant,Polsinelli,Procurement Managed Solutions,0% ,Nov-20
+655,"Boyer, Taylor",Director,Polsinelli,Procurement Managed Solutions,0% ,Jan-21
+656,"Vu, Michael",Consultant,Polsinelli,SELL,91% ,Feb-21
+657,"Peasley, Marcus",Sr Consultant,Polsinelli,SELL,6% ,Jan-21
+658,"Giang, Nathan",Sr Consultant,Polsinelli,SELL,3% ,Nov-20
+659,"Scherrer, Lauren",Director,Proskauer Rose LLP,LexisNexis Advisory Services - Supplemental Activities,100% ,Sep-20
+660,"Scherrer, Lauren",Director,Proskauer Rose LLP,SELL,100% ,Feb-21
+661,"Vijayakumar, Ratheesh",Manager,Proskauer Rose LLP,Sourcing - Courier,86% ,Feb-21
+662,"Anderson, Sean",Director,Proskauer Rose LLP,Sourcing - Courier,14% ,Feb-21
+663,"Hegarty, John K",Sr Consultant,Quarles & Brady LLP,RIS Sourcing,42% ,Feb-21
+664,"Chevel, Peggy",Sr Manager,Quarles & Brady LLP,RIS Sourcing,27% ,Feb-21
+665,"Odom, Lauren",Sr Consultant,Quarles & Brady LLP,RIS Sourcing,17% ,Jan-21
+666,"Betthauser, Jacqueline",Consultant,Quarles & Brady LLP,RIS Sourcing,12% ,Jan-21
+667,"Peasley, Marcus",Sr Consultant,Quarles & Brady LLP,RIS Sourcing,2% ,Jan-21
+668,"Terjesen, Donna",Managing Director,Quarles & Brady LLP,RIS Sourcing,0% ,Nov-20
+669,"Giang, Nathan",Sr Consultant,Quarles & Brady LLP,SELL,57% ,Feb-21
+670,"Terjesen, Donna",Managing Director,Quarles & Brady LLP,SELL,29% ,Feb-21
+671,"Cable, Colleen",Director,Quarles & Brady LLP,SELL,14% ,Feb-21
+672,"Wright, Brandon",Sr Director,Randstad US,SELL,100% ,Jan-21
+673,"Barton, Lacey",Sr Consultant,Reed Smith LLP,SELL,56% ,Feb-21
+674,"Vu, Michael",Consultant,Reed Smith LLP,SELL,26% ,Feb-21
+675,"Ikens, Laura",Sr Manager,Reed Smith LLP,SELL,9% ,Sep-20
+676,"Odom, Lauren",Sr Consultant,Reed Smith LLP,SELL,8% ,Sep-20
+677,"Peasley, Marcus",Sr Consultant,Reed Smith LLP,Westlaw Negotiation & Sole Provider Support,42% ,Feb-21
+678,"Betthauser, Jacqueline",Consultant,Reed Smith LLP,Westlaw Negotiation & Sole Provider Support,24% ,Feb-21
+679,"Scherrer, Lauren",Director,Reed Smith LLP,Westlaw Negotiation & Sole Provider Support,17% ,Feb-21
+680,"Martin, Kristopher",Sr Director,Reed Smith LLP,Westlaw Negotiation & Sole Provider Support,9% ,Feb-21
+681,"Odom, Lauren",Sr Consultant,Reed Smith LLP,Westlaw Negotiation & Sole Provider Support,6% ,Feb-21
+682,"Habibian, Christopher",Consultant,Reed Smith LLP,Westlaw Negotiation & Sole Provider Support,1% ,Sep-20
+683,"Odom, Lauren",Sr Consultant,Schiff Hardin LLP,RIS RELX Sourcing and CCC,49% ,Feb-21
+684,"Chevel, Peggy",Sr Manager,Schiff Hardin LLP,RIS RELX Sourcing and CCC,25% ,Feb-21
+685,"Hegarty, John K",Sr Consultant,Schiff Hardin LLP,RIS RELX Sourcing and CCC,24% ,Feb-21
+686,"Kiley, Joanne",Sr Manager,Schiff Hardin LLP,RIS RELX Sourcing and CCC,1% ,Jan-21
+687,"Forsher, Anna",Sr Consultant,Schiff Hardin LLP,RIS RELX Sourcing and CCC,0% ,Feb-21
+688,"Terjesen, Donna",Managing Director,Schiff Hardin LLP,RIS RELX Sourcing and CCC,0% ,Nov-20
+689,"Soren, Gerri",Sr Consultant,Schiff Hardin LLP,SELL,35% ,Sep-20
+690,"Placzek, Aaron",Manager,Schiff Hardin LLP,SELL,28% ,Oct-20
+691,"Hegarty, John K",Sr Consultant,Schiff Hardin LLP,SELL,10% ,Sep-20
+692,"Chevel, Peggy",Sr Manager,Schiff Hardin LLP,SELL,9% ,Sep-20
+693,"Terjesen, Donna",Managing Director,Schiff Hardin LLP,SELL,4% ,Jan-21
+694,"Vu, Michael",Consultant,Schiff Hardin LLP,SELL,4% ,Feb-21
+695,"Scherrer, Lauren",Director,Schiff Hardin LLP,SELL,2% ,Sep-20
+696,"Anderson, Sean",Director,Schiff Hardin LLP,SELL,2% ,Sep-20
+697,"Odom, Lauren",Sr Consultant,Schiff Hardin LLP,SELL,2% ,Sep-20
+698,"Ikens, Laura",Sr Manager,Schiff Hardin LLP,SELL,1% ,Sep-20
+699,"Freddo, William",Manager,Schiff Hardin LLP,SELL,1% ,Sep-20
+700,"Kilicarslan, Christine",Manager,Schiff Hardin LLP,SELL,1% ,Sep-20
+701,"Habibian, Christopher",Consultant,Schiff Hardin LLP,SELL,1% ,Sep-20
+702,"Kiley, Joanne",Sr Manager,Schiff Hardin LLP,SELL,0% ,Sep-20
+703,"Romuno, Daniel",Sr Consultant,Shearman & Sterling LLP,Procurement Outsourcing,34% ,Feb-21
+704,"Fortuna, Bret",Consultant,Shearman & Sterling LLP,Procurement Outsourcing,33% ,Feb-21
+705,"Romano, Chiharu",Director,Shearman & Sterling LLP,Procurement Outsourcing,16% ,Feb-21
+706,"Gilmore, Marquis",Consultant,Shearman & Sterling LLP,Procurement Outsourcing,7% ,Feb-21
+707,"Fox, Clayton",Sr Director,Shearman & Sterling LLP,Procurement Outsourcing,5% ,Feb-21
+708,"Li, Liszter",Sr Consultant,Shearman & Sterling LLP,Procurement Outsourcing,3% ,Nov-20
+709,"Bergonia, Caroline",Sr Consultant,Shearman & Sterling LLP,Procurement Outsourcing,1% ,Jan-21
+710,"Gamboa., Maritza .",Consultant,Shearman & Sterling LLP,Procurement Outsourcing,1% ,Nov-20
+711,"Ammendola, Devlin Ann",Sr Consultant,Shearman & Sterling LLP,Procurement Outsourcing,0% ,Dec-20
+712,"Anderson, Sean",Director,Shearman & Sterling LLP,Procurement Outsourcing,0% ,Feb-21
+713,"Vijayakumar, Ratheesh",Manager,Shearman & Sterling LLP,Procurement Outsourcing,0% ,Oct-20
+714,"Witt, Diana",Manager,Shearman & Sterling LLP,Procurement Outsourcing,0% ,Sep-20
+715,"Ammendola, Devlin Ann",Sr Consultant,Shearman & Sterling LLP,SELL,50% ,Feb-21
+716,"Cable, Colleen",Director,Shearman & Sterling LLP,SELL,50% ,Jan-21
+717,"Lapid, Philip",Sr Consultant,Shearman & Sterling LLP,Strategic Sourcing,48% ,Feb-21
+718,"Vercellino, Jessica",Manager,Shearman & Sterling LLP,Strategic Sourcing,38% ,Feb-21
+719,"Okafor, Arinze",Sr Consultant,Shearman & Sterling LLP,Strategic Sourcing,11% ,Feb-21
+720,"Bergonia, Caroline",Sr Consultant,Shearman & Sterling LLP,Strategic Sourcing,2% ,Dec-20
+721,"Karpen, Sarah",Sr Manager,Shearman & Sterling LLP,Strategic Sourcing,1% ,Jan-21
+722,"Rosenberg., Matthew",Manager,Shearman & Sterling LLP,Strategic Sourcing,0% ,Sep-20
+723,"Steele, Jennifer",Manager,Shearman & Sterling LLP,Strategic Sourcing,0% ,Jan-21
+724,"Witt, Diana",Manager,Sidley Austin LLP,RIS Top 40 Partnership,47% ,Feb-21
+725,"Habibian, Christopher",Consultant,Sidley Austin LLP,RIS Top 40 Partnership,33% ,Feb-21
+726,"Freddo, William",Manager,Sidley Austin LLP,RIS Top 40 Partnership,14% ,Feb-21
+727,"Betthauser, Jacqueline",Consultant,Sidley Austin LLP,RIS Top 40 Partnership,4% ,Dec-20
+728,"Ikens, Laura",Sr Manager,Sidley Austin LLP,RIS Top 40 Partnership,1% ,Oct-20
+729,"Odom, Lauren",Sr Consultant,Sidley Austin LLP,RIS Top 40 Partnership,1% ,Oct-20
+730,"Ikens, Laura",Sr Manager,Sidley Austin LLP,SELL,55% ,Feb-21
+731,"Chevel, Peggy",Sr Manager,Sidley Austin LLP,SELL,45% ,Sep-20
+732,"Steele, Jennifer",Manager,Sidley Austin LLP,Technology SSR,52% ,Feb-21
+733,"Anderson, Sean",Director,Sidley Austin LLP,Technology SSR,27% ,Feb-21
+734,"Buchholz, Julia",Sr Consultant,Sidley Austin LLP,Technology SSR,11% ,Feb-21
+735,"Cooley, Andrew",Consultant,Sidley Austin LLP,Technology SSR,9% ,Feb-21
+736,"Gard, Wesley",Sr Manager,Sidley Austin LLP,Technology SSR,1% ,Feb-21
+737,"Ikens, Laura",Sr Manager,Sidley Austin LLP,Technology SSR,1% ,Feb-21
+738,"Peasley, Marcus",Sr Consultant,Simpson Thacher & Bartlett LLP,RIS Assessment,95% ,Oct-20
+739,"Odom, Lauren",Sr Consultant,Simpson Thacher & Bartlett LLP,RIS Assessment,5% ,Sep-20
+740,"Barton, Lacey",Sr Consultant,Simpson Thacher & Bartlett LLP,RIS Library Assessment,42% ,Feb-21
+741,"Cable, Colleen",Director,Simpson Thacher & Bartlett LLP,RIS Library Assessment,20% ,Feb-21
+742,"Boyer, Taylor",Director,Simpson Thacher & Bartlett LLP,RIS Library Assessment,17% ,Feb-21
+743,"Odom, Lauren",Sr Consultant,Simpson Thacher & Bartlett LLP,RIS Library Assessment,8% ,Dec-20
+744,"Greco, Theresa",Manager,Simpson Thacher & Bartlett LLP,RIS Library Assessment,4% ,Jan-21
+745,"Bargar, Beverly",Consultant,Simpson Thacher & Bartlett LLP,RIS Library Assessment,4% ,Dec-20
+746,"Sutherland, Jennifer",Consultant,Simpson Thacher & Bartlett LLP,RIS Library Assessment,3% ,Nov-20
+747,"Kiley, Joanne",Sr Manager,Simpson Thacher & Bartlett LLP,RIS Library Assessment,2% ,Dec-20
+748,"Flemming, Axelle",Director,Simpson Thacher & Bartlett LLP,SELL,47% ,Nov-20
+749,"Cable, Colleen",Director,Simpson Thacher & Bartlett LLP,SELL,19% ,Dec-20
+750,"Witt, Diana",Manager,Simpson Thacher & Bartlett LLP,SELL,15% ,Oct-20
+751,"Boyer, Taylor",Director,Simpson Thacher & Bartlett LLP,SELL,10% ,Dec-20
+752,"Scherrer, Lauren",Director,Simpson Thacher & Bartlett LLP,SELL,8% ,Oct-20
+753,"Chevel, Peggy",Sr Manager,Simpson Thacher & Bartlett LLP,SELL,1% ,Nov-20
+754,"King, Brian",Sr Consultant,"Smith, Gambrell & Russell, LLP",RIS Sourcing,41% ,Feb-21
+755,"Freddo, William",Manager,"Smith, Gambrell & Russell, LLP",RIS Sourcing,37% ,Feb-21
+756,"Scherrer, Lauren",Director,"Smith, Gambrell & Russell, LLP",RIS Sourcing,10% ,Feb-21
+757,"Odom, Lauren",Sr Consultant,"Smith, Gambrell & Russell, LLP",RIS Sourcing,5% ,Jan-21
+758,"Habibian, Christopher",Consultant,"Smith, Gambrell & Russell, LLP",RIS Sourcing,5% ,Jan-21
+759,"Betthauser, Jacqueline",Consultant,"Smith, Gambrell & Russell, LLP",RIS Sourcing,1% ,Jan-21
+760,"Peasley, Marcus",Sr Consultant,"Smith, Gambrell & Russell, LLP",RIS Sourcing,0% ,Jan-21
+761,"Terjesen, Donna",Managing Director,"Smith, Gambrell & Russell, LLP",RIS Sourcing,0% ,Jan-21
+762,"Cable, Colleen",Director,Snell & Wilmer,SELL,100% ,Sep-20
+763,"Peasley, Marcus",Sr Consultant,Steptoe & Johnson LLP,RIS - Strategic Sourcing,100% ,Jan-21
+764,"Giang, Nathan",Sr Consultant,Steptoe & Johnson LLP,SELL,93% ,Feb-21
+765,"Gumila, Jeremy",Consultant,Steptoe & Johnson LLP,SELL,4% ,Jan-21
+766,"Vu, Michael",Consultant,Steptoe & Johnson LLP,SELL,4% ,Dec-20
+767,"Karpen, Sarah",Sr Manager,Steptoe & Johnson LLP,Strategic Sourcing,100% ,Feb-21
+768,"Habibian, Christopher",Consultant,"Stites & Harbison, PLLC",SELL,49% ,Feb-21
+769,"Freddo, William",Manager,"Stites & Harbison, PLLC",SELL,27% ,Feb-21
+770,"Kilicarslan, Christine",Manager,"Stites & Harbison, PLLC",SELL,11% ,Feb-21
+771,"Terjesen, Donna",Managing Director,"Stites & Harbison, PLLC",SELL,8% ,Feb-21
+772,"Giang, Nathan",Sr Consultant,"Stites & Harbison, PLLC",SELL,3% ,Dec-20
+773,"Odom, Lauren",Sr Consultant,"Stites & Harbison, PLLC",SELL,1% ,Feb-21
+774,"Scherrer, Lauren",Director,"Stites & Harbison, PLLC",SELL,1% ,Dec-20
+775,"Ikens, Laura",Sr Manager,"Stites & Harbison, PLLC",SELL,1% ,Feb-21
+776,"Giang, Nathan",Sr Consultant,"Stradley Ronon Stevens & Young, LLP",SELL,100% ,Jan-21
+777,"Rosenberg., Matthew",Manager,Sullivan & Cromwell,MS Sourcing,44% ,Dec-20
+778,"Anderson, Sean",Director,Sullivan & Cromwell,MS Sourcing,21% ,Dec-20
+779,"Bergonia, Caroline",Sr Consultant,Sullivan & Cromwell,MS Sourcing,20% ,Oct-20
+780,"Placzek, Aaron",Manager,Sullivan & Cromwell,MS Sourcing,9% ,Oct-20
+781,"Steele, Jennifer",Manager,Sullivan & Cromwell,MS Sourcing,5% ,Dec-20
+782,"Hegarty, John K",Sr Consultant,Sullivan & Cromwell,RIS Sourcing Expansion,42% ,Feb-21
+783,"Chevel, Peggy",Sr Manager,Sullivan & Cromwell,RIS Sourcing Expansion,31% ,Feb-21
+784,"Betthauser, Jacqueline",Consultant,Sullivan & Cromwell,RIS Sourcing Expansion,16% ,Feb-21
+785,"Odom, Lauren",Sr Consultant,Sullivan & Cromwell,RIS Sourcing Expansion,9% ,Feb-21
+786,"Habibian, Christopher",Consultant,Sullivan & Cromwell,RIS Sourcing Expansion,1% ,Oct-20
+787,"Barton, Lacey",Sr Consultant,Sullivan & Cromwell,RIS Sourcing Expansion,1% ,Nov-20
+788,"Freddo, William",Manager,Sullivan & Cromwell,RIS Sourcing Expansion,0% ,Feb-21
+789,"Peasley, Marcus",Sr Consultant,Sullivan & Cromwell,RIS Sourcing Expansion,0% ,Feb-21
+790,"Scherrer, Lauren",Director,Sullivan & Cromwell,RIS Sourcing Expansion,0% ,Sep-20
+791,"Martin, Kristopher",Sr Director,Sullivan & Cromwell,SELL,42% ,Feb-21
+792,"Barton, Lacey",Sr Consultant,Sullivan & Cromwell,SELL,22% ,Feb-21
+793,"Chevel, Peggy",Sr Manager,Sullivan & Cromwell,SELL,11% ,Feb-21
+794,"Nickey, Rebecca",Manager,Sullivan & Cromwell,SELL,10% ,Feb-21
+795,"Giang, Nathan",Sr Consultant,Sullivan & Cromwell,SELL,10% ,Feb-21
+796,"Kiley, Joanne",Sr Manager,Sullivan & Cromwell,SELL,2% ,Feb-21
+797,"Cable, Colleen",Director,Sullivan & Cromwell,SELL,2% ,Feb-21
+798,"Deters., Patrick M",Sr Consultant,Sullivan & Cromwell,SELL,1% ,Sep-20
+799,"Boyer, Taylor",Director,Sullivan & Cromwell,SELL,0% ,Dec-20
+800,"Scherrer, Lauren",Director,Sullivan & Cromwell,SELL,0% ,Feb-21
+801,"Kiley, Joanne",Sr Manager,Susman Godfrey LLP,RIS Assessment,86% ,Feb-21
+802,"Cable, Colleen",Director,Susman Godfrey LLP,RIS Assessment,14% ,Feb-21
+803,"Freddo, William",Manager,Susman Godfrey LLP,SELL,100% ,Feb-21
+804,"Kilicarslan, Christine",Manager,Taft Stettinius & Hollister LLP,SELL,74% ,Sep-20
+805,"Kilicarslan, Christine",Manager,Taft Stettinius & Hollister LLP,SELL,63% ,Sep-20
+806,"Anderson, Sean",Director,Taft Stettinius & Hollister LLP,SELL,38% ,Sep-20
+807,"Anderson, Sean",Director,Taft Stettinius & Hollister LLP,SELL,26% ,Nov-20
+808,"Soren, Gerri",Sr Consultant,Troutman Pepper,Project 23 - Vendor Governance,100% ,Dec-20
+809,"Vu, Michael",Consultant,Troutman Pepper,SELL,93% ,Jan-21
+810,"Vu, Michael",Consultant,Troutman Pepper,SELL,90% ,Feb-21
+811,"Placzek, Aaron",Manager,Troutman Pepper,SELL,10% ,Dec-20
+812,"Cable, Colleen",Director,Troutman Pepper,SELL,7% ,Oct-20
+813,"Placzek, Aaron",Manager,Troutman Pepper,SpendConnect,100% ,Jan-21
+814,"Soren, Gerri",Sr Consultant,Troutman Pepper,Strategic Sourcing Phase I,40% ,Feb-21
+815,"Placzek, Aaron",Manager,Troutman Pepper,Strategic Sourcing Phase I,39% ,Feb-21
+816,"Palmer, John",Manager,Troutman Pepper,Strategic Sourcing Phase I,20% ,Feb-21
+817,"Kilicarslan, Christine",Manager,Ventura Foods,SELL,100% ,Feb-21
+818,"Montgomery, Melissa",Manager,Ventura Foods,Sourcing Phase I,93% ,Feb-21
+819,"Patel, Shrina",Sr Consultant,Ventura Foods,Sourcing Phase I,6% ,Feb-21
+820,"Kilicarslan, Christine",Manager,Ventura Foods,Sourcing Phase I,1% ,Jan-21
+821,"Betthauser, Jacqueline",Consultant,Vinson & Elkins LLP,SpendConnect,100% ,Feb-21
+822,"Vijayakumar, Ratheesh",Manager,Vinson & Elkins LLP,Strategic Sourcing,83% ,Dec-20
+823,"Anderson, Sean",Director,Vinson & Elkins LLP,Strategic Sourcing,17% ,Sep-20
+824,"Vu, Michael",Consultant,"Vorys, Sater, Seymour and Pease LLP",SELL,100% ,Dec-20
+825,"Hall, Anthony E",Consultant,"Weil, Gotshal & Manges, LLP",Procurement Managed Services,20% ,Feb-21
+826,"Arrindell, Craig P",Sr Manager,"Weil, Gotshal & Manges, LLP",Procurement Managed Services,20% ,Feb-21
+827,"Mangal, Derrick",Consultant,"Weil, Gotshal & Manges, LLP",Procurement Managed Services,19% ,Feb-21
+828,"Prospere, Jheryl S",Sr Consultant,"Weil, Gotshal & Manges, LLP",Procurement Managed Services,18% ,Feb-21
+829,"Li, Liszter",Sr Consultant,"Weil, Gotshal & Manges, LLP",Procurement Managed Services,12% ,Feb-21
+830,"Gilmore, Marquis",Consultant,"Weil, Gotshal & Manges, LLP",Procurement Managed Services,9% ,Feb-21
+831,"Fox, Clayton",Sr Director,"Weil, Gotshal & Manges, LLP",Procurement Managed Services,1% ,Feb-21
+832,"Bergonia, Caroline",Sr Consultant,"Weil, Gotshal & Manges, LLP",Procurement Managed Services,0% ,Oct-20
+833,"Vijayakumar, Ratheesh",Manager,"Weil, Gotshal & Manges, LLP",Procurement Managed Services,0% ,Feb-21
+834,"Betthauser, Jacqueline",Consultant,"Weil, Gotshal & Manges, LLP",Procurement Managed Services,0% ,Jan-21
+835,"Karpen, Sarah",Sr Manager,"Weil, Gotshal & Manges, LLP",Procurement Managed Services,0% ,Oct-20
+836,"Barton, Lacey",Sr Consultant,"Weil, Gotshal & Manges, LLP",Procurement Managed Services,0% ,Sep-20
+837,"Boyer, Taylor",Director,"Weil, Gotshal & Manges, LLP",Procurement Managed Services,0% ,Feb-21
+838,"Witt, Diana",Manager,"Weil, Gotshal & Manges, LLP",Procurement Managed Services,0% ,Feb-21
+839,"Palmer, John",Manager,"Weil, Gotshal & Manges, LLP",Procurement Managed Services,0% ,Feb-21
+840,"Chevel, Peggy",Sr Manager,"Weil, Gotshal & Manges, LLP",SELL,100% ,Oct-20
+841,"Betthauser, Jacqueline",Consultant,"Weil, Gotshal & Manges, LLP",SpendConnect,94% ,Dec-20
+842,"Peasley, Marcus",Sr Consultant,"Weil, Gotshal & Manges, LLP",SpendConnect,6% ,Dec-20
+843,"Peasley, Marcus",Sr Consultant,White & Case LLP,Interim Library Support,43% ,Oct-20
+844,"Scherrer, Lauren",Director,White & Case LLP,Interim Library Support,33% ,Oct-20
+845,"Odom, Lauren",Sr Consultant,White & Case LLP,Interim Library Support,24% ,Oct-20
+846,"Giang, Nathan",Sr Consultant,White & Case LLP,SELL,45% ,Feb-21
+847,"Bergonia, Caroline",Sr Consultant,White & Case LLP,SELL,39% ,Feb-21
+848,"Kilicarslan, Christine",Manager,White & Case LLP,SELL,15% ,Oct-20
+849,"Habibian, Christopher",Consultant,"Wilson, Sonsini, Goodrich & Rosati",RIS Sole Provider Assessment,69% ,Nov-20
+850,"Scherrer, Lauren",Director,"Wilson, Sonsini, Goodrich & Rosati",RIS Sole Provider Assessment,16% ,Jan-21
+851,"Odom, Lauren",Sr Consultant,"Wilson, Sonsini, Goodrich & Rosati",RIS Sole Provider Assessment,8% ,Dec-20
+852,"Peasley, Marcus",Sr Consultant,"Wilson, Sonsini, Goodrich & Rosati",RIS Sole Provider Assessment,4% ,Dec-20
+853,"Freddo, William",Manager,"Wilson, Sonsini, Goodrich & Rosati",RIS Sole Provider Assessment,2% ,Nov-20
+854,"Betthauser, Jacqueline",Consultant,"Wilson, Sonsini, Goodrich & Rosati",RIS SpendConnect,100% ,Feb-21
+855,"Peasley, Marcus",Sr Consultant,"Wilson, Sonsini, Goodrich & Rosati",RIS Strategic Sourcing,41% ,Feb-21
+856,"Habibian, Christopher",Consultant,"Wilson, Sonsini, Goodrich & Rosati",RIS Strategic Sourcing,31% ,Sep-20
+857,"Odom, Lauren",Sr Consultant,"Wilson, Sonsini, Goodrich & Rosati",RIS Strategic Sourcing,11% ,Feb-21
+858,"Scherrer, Lauren",Director,"Wilson, Sonsini, Goodrich & Rosati",RIS Strategic Sourcing,9% ,Feb-21
+859,"Freddo, William",Manager,"Wilson, Sonsini, Goodrich & Rosati",RIS Strategic Sourcing,7% ,Sep-20
+860,"Betthauser, Jacqueline",Consultant,"Wilson, Sonsini, Goodrich & Rosati",RIS Strategic Sourcing,1% ,Jan-21
+861,"Giang, Nathan",Sr Consultant,"Wilson, Sonsini, Goodrich & Rosati",SELL,80% ,Feb-21
+862,"Scherrer, Lauren",Director,"Wilson, Sonsini, Goodrich & Rosati",SELL,19% ,Oct-20
+863,"Chevel, Peggy",Sr Manager,"Wilson, Sonsini, Goodrich & Rosati",SELL,1% ,Dec-20
+864,"Peasley, Marcus",Sr Consultant,"Winston & Strawn, LLP",RIS Sourcing - TR,100% ,Oct-20
+865,"Cable, Colleen",Director,"Winston & Strawn, LLP",SELL,100% ,Oct-20
+866,"Rosenberg., Matthew",Manager,Withers LLP,SELL,100% ,Dec-20
+867,"Macias, Eduardo",Consultant,Withers LLP,WAN Negotiations,43% ,Feb-21
+868,"Rosenberg., Matthew",Manager,Withers LLP,WAN Negotiations,37% ,Dec-20
+869,"Vijayakumar, Ratheesh",Manager,Withers LLP,WAN Negotiations,19% ,Feb-21
